@@ -7,9 +7,8 @@ This environment will serve as the foundation for all future projects.
 ---
 
 ## 🛠️ Tools Used
-- VirtualBox / VMware / Hyper-V
+- VirtualBox
 - Windows ISO files
-- Ubuntu ISO (optional)
 
 ---
 
