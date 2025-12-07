@@ -1,0 +1,54 @@
+# 03 – Active Directory Lab (Part 2)
+
+## 📌 Overview
+Configured **Group Policies, permissions, login scripts, and user accounts**.
+
+---
+
+## 🛠️ Tools Used
+- GPMC (Group Policy Management Console)
+- PowerShell
+
+---
+
+## 🧩 Steps Performed
+
+### 1. Created User Accounts
+📸 *Screenshot: Users created*
+
+---
+
+### 2. Created Group Policies
+📸 *Screenshot: GPO list*
+
+---
+
+### 3. Linked GPOs to OUs
+📸 *Screenshot: GPO link result*
+
+---
+
+### 4. Applied Login Scripts (Optional)
+📸 *Screenshot: Script path*
+
+---
+
+### 5. Tested Policies with Client VM
+📸 *Screenshot: Resulting policy applied*
+
+---
+
+## 📘 What I Learned
+- How to design and apply GPOs  
+- Group vs OU strategy  
+- Security and permissions  
+
+---
+
+## ❗ Issues & Fixes
+[Add notes]
+
+---
+
+## ✅ Final Outcome
+Functional domain with users, groups, and group policies.
