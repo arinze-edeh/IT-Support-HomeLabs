@@ -40,8 +40,7 @@ This repository showcases my **hands-on projects and labs** designed to build pr
 
 > Each lab folder contains:
 > - **README.md** – Steps performed, screenshots, outcome  
-> - **screenshots/** – Key screenshots showing the work done  
-> - Optional: **config-files/** – Any configuration files used  
+> - **screenshots/** – Key screenshots showing the work done   
 
 ---
 
