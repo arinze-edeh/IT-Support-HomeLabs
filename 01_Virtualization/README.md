@@ -34,6 +34,10 @@ This environment will serve as the foundation for all future projects.
 
 ### 3. Configured Networking (NAT / Host-Only)
 📸 *Screenshot: Network settings panel*
+<img width="1920" height="1080" alt="Screenshot10 033434" src="https://github.com/user-attachments/assets/6d1dc7db-96c4-4e53-9b25-a5b8ad3dc97b" />
+<img width="1920" height="1080" alt="Screenshot034022" src="https://github.com/user-attachments/assets/2152e739-6f50-473e-829d-57056c4d61a5" />
+<img width="1920" height="1080" alt="Screenshot034110" src="https://github.com/user-attachments/assets/3c947677-28f8-46bd-b2e1-e072ba02e9a2" />
+
 
 ---
 
