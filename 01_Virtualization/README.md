@@ -63,8 +63,79 @@ This environment will serve as the foundation for all future projects.
 
 ---
 
-## ❗ Issues & Fixes
-- [Document any installation, driver, or ISO issues here]
+## ❗ Issues & Fixes (VirtualBox Windows VM Troubleshooting Log)
+
+### Issue 1: VM Performance Extremely Slow During Installation
+**Symptoms:**  
+Windows installation moved slowly and the VM felt unresponsive.  
+**Cause:**  
+VM was assigned low resources (2GB RAM, 1 CPU).  
+**Fix:**  
+Increased allocation to 4GB RAM and 2 vCPUs under `Settings → System`, which improved performance.
+
+### Issue 2: “No Bootable Medium Found” Error
+**Symptoms:**  
+Black screen displaying: FATAL: No bootable medium found.  
+**Cause:**  
+ISO file was not attached to the VM.  
+**Fix:**  
+Attached the Windows ISO under `Settings → Storage → Optical Drive` and restarted the VM.
+
+### Issue 3: Installation Reboot Loop
+**Symptoms:**  
+VM kept returning to Windows setup after installation.  
+**Cause:**  
+Boot order prioritized the ISO instead of the virtual hard disk.  
+**Fix:**  
+Updated `Settings → System → Boot Order` to boot from Hard Disk first.
+
+### Issue 4: VirtualBox Guest Additions Failed to Install
+**Symptoms:**  
+No full-screen mode, no better resolution, no mouse integration.  
+**Cause:**  
+Windows Defender blocked Guest Additions driver installation.  
+**Fix:**  
+Temporarily disabled Real-Time Protection, reinstalled Guest Additions, and rebooted.
+
+### Issue 5: No Internet Connectivity in the VM
+**Symptoms:**  
+Windows showed “No Internet” despite network adapter being attached.  
+**Cause:**  
+Firewall blocked new NAT connections.  
+**Fix:**  
+Switched network mode to Bridged Adapter under `Settings → Network`. Internet worked immediately.
+
+### Issue 6: Windows Activation Watermark
+**Symptoms:**  
+“Activate Windows” watermark appeared.  
+**Cause:**  
+Using Windows Evaluation edition for homelab testing.  
+**Fix:**  
+Confirmed evaluation mode is valid for lab use. No further action required.
+
+### Issue 7: Snapshot Creation Took Too Long
+**Symptoms:**  
+Snapshot creation seemed to freeze or progress slowly.  
+**Cause:**  
+Snapshot was taken while the VM was still running.  
+**Fix:**  
+Shut down the VM and recreated the snapshot while Powered Off, which completed instantly.
+
+### Issue 8: Corrupted ISO Download
+**Symptoms:**  
+Windows setup failed or displayed “This image cannot be used”.  
+**Cause:**  
+ISO download was incomplete or corrupted.  
+**Fix:**  
+Re-downloaded the ISO from the official Microsoft site and verified the file size before using it.
+
+### Issue 9: VT-x/AMD-V Virtualization Error
+**Symptoms:**  
+Error message: “VT-x/AMD-V hardware acceleration is not available.”  
+**Cause:**  
+Virtualization was disabled in BIOS.  
+**Fix:**  
+Enabled Intel VT-x / AMD-V in BIOS CPU settings. VM started successfully afterward.
 
 ---
 
