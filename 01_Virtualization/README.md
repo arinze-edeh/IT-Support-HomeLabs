@@ -22,6 +22,13 @@ This environment will serve as the foundation for all future projects.
 
 ### 2. Created the Base Virtual Machines
 📸 *Screenshot: Windows 10 / Windows Server VM creation settings*
+<img width="1192" height="827" alt="Screenshot025255" src="https://github.com/user-attachments/assets/489fa1e8-42c5-4d86-9887-83b3081ebd97" />
+<img width="1196" height="826" alt="Screenshot 025046" src="https://github.com/user-attachments/assets/651e59dd-6a07-402a-8ff3-0ad6b98ee256" />
+<img width="1194" height="821" alt="Screenshot24856" src="https://github.com/user-attachments/assets/0750430f-a794-4d56-ae2a-1f178628a73c" />
+<img width="1191" height="829" alt="Screenshot 025658" src="https://github.com/user-attachments/assets/73c1cdcb-f521-4c77-9576-a322bf05bb84" />
+<img width="1203" height="822" alt="Screenshot 025717" src="https://github.com/user-attachments/assets/3412d443-a1a9-44f3-bf33-d17d442b1932" />
+<img width="1200" height="832" alt="Screenshot  025734" src="https://github.com/user-attachments/assets/7a27e769-38a9-47ee-8ca2-8896a4ba72d5" />
+<img width="1920" height="1080" alt="Screenshot025748" src="https://github.com/user-attachments/assets/2ebd2fc7-13eb-4029-9b5b-a3c1a1c381cf" />
 
 ---
 
