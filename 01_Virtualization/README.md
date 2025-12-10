@@ -15,9 +15,8 @@ This environment will serve as the foundation for all future projects.
 ## 🧩 Steps Performed
 
 ### 1. Installed the Hypervisor
-📸 *Screenshot: Hypervisor installation screen*
-<img width="771" height="611" alt="Screenshot 012251" src="https://github.com/user-attachments/assets/7c70baa5-38f9-46ea-a9c5-e1442de8320d" />
-
+📸 *Screenshot: VirtualBox 7.2.4 Hypervisor Successfully Installed*
+<img width="768" height="613" alt="Screenshot22124" src="https://github.com/user-attachments/assets/14a67292-8e60-4423-be2e-7e0cb52acb4b" />
 
 ---
 
