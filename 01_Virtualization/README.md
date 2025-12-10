@@ -43,6 +43,8 @@ This environment will serve as the foundation for all future projects.
 
 ### 4. Installed OS on Each VM
 📸 *Screenshot: OS installation progress*
+<img width="1023" height="892" alt="Screenshot035912" src="https://github.com/user-attachments/assets/19f0a87a-9630-4c12-a59d-038fc7f9bd39" />
+<img width="1031" height="899" alt="Screenshot40149" src="https://github.com/user-attachments/assets/9ec30ce4-e622-493e-a7bd-c969f4acf906" />
 
 ---
 
