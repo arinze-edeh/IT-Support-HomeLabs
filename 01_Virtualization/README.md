@@ -46,6 +46,8 @@ This environment will serve as the foundation for all future projects.
 <img width="1023" height="892" alt="Screenshot035912" src="https://github.com/user-attachments/assets/19f0a87a-9630-4c12-a59d-038fc7f9bd39" />
 <img width="1031" height="899" alt="Screenshot40149" src="https://github.com/user-attachments/assets/9ec30ce4-e622-493e-a7bd-c969f4acf906" />
 <img width="1025" height="890" alt="Screenshot 44954" src="https://github.com/user-attachments/assets/db1acd06-8229-4e65-a033-4b6d5ca05dba" />
+<img width="1026" height="897" alt="Screenshot060639" src="https://github.com/user-attachments/assets/2e2469d2-be35-47f2-9b92-a1bb96fa59de" />
+
 
 ---
 
