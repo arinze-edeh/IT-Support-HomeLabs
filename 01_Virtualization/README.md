@@ -51,6 +51,7 @@ This environment will serve as the foundation for all future projects.
 
 ### 5. Took Initial Snapshots
 📸 *Screenshot: Snapshot created*
+<img width="1919" height="1079" alt="Screenshot52840" src="https://github.com/user-attachments/assets/d1001189-dd7c-4708-b2fd-d4ab1ca27ecb" />
 
 ---
 
