@@ -16,6 +16,8 @@ This environment will serve as the foundation for all future projects.
 
 ### 1. Installed the Hypervisor
 📸 *Screenshot: Hypervisor installation screen*
+<img width="771" height="611" alt="Screenshot 012251" src="https://github.com/user-attachments/assets/7c70baa5-38f9-46ea-a9c5-e1442de8320d" />
+
 
 ---
 
