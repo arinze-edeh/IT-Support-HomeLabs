@@ -57,8 +57,39 @@ Set up a **Windows Server Domain Controller**, domain, and organizational units.
 
 ---
 
-## ❗ Issues & Fixes
-[Add notes here]
+## ❗ Issues & Fixes Encountered
+
+### 1. Server Not Receiving Internet Access  
+**Issue:** After setting a static IP, the server lost internet connection.  
+**Fix:**  
+- Ensured DNS was set to the correct gateway (e.g., 192.168.56.1).  
+- Verified that the NAT adapter was still attached in VirtualBox/VMware settings.
+
+### 2. AD DS Installation Failed on First Attempt  
+**Issue:** The server returned an error during the AD DS role installation.  
+**Fix:**  
+- Restarted the server and retried the installation.  
+- Verified that Windows updates did not have pending restarts.
+
+### 3. Domain Promotion Taking Too Long  
+**Issue:** "Promoting this server to a domain controller" froze at 50–60%.  
+**Fix:**  
+- Increased RAM from 2GB → 4GB temporarily.  
+- Closed other heavy applications on the host system.
+
+### 4. Cannot Create Organizational Units  
+**Issue:** “Access Denied” error when creating OUs.  
+**Fix:**  
+- Ensured I was logged in as **Domain Administrator** (not local admin).  
+- Restarted the AD Administrative Center service.
+
+### 5. DNS Error After Domain Controller Setup  
+**Issue:** Clients unable to join the domain; DNS lookup failures.  
+**Fix:**  
+- Verified DNS service was running in Server Manager.  
+- Confirmed server’s own DNS points to **127.0.0.1** or its static IP.  
+- Flushed DNS cache using:  
+
 
 ---
 
