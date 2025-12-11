@@ -6,7 +6,7 @@ Set up a **Windows Server Domain Controller**, domain, and organizational units.
 ---
 
 ## 🛠️ Tools Used
-- Windows Server 2019/2022
+- Windows Server 2022
 - Active Directory Domain Services (AD DS)
 
 ---
