@@ -15,6 +15,8 @@ Configured **Group Policies, permissions, login scripts, and user accounts**.
 
 ### 1. Created User Accounts
 📸 *Screenshot: Users created*
+<img width="958" height="792" alt="image" src="https://github.com/user-attachments/assets/6620b1af-ad4d-4dba-86c5-9412eb28f226" />
+
 
 ---
 
