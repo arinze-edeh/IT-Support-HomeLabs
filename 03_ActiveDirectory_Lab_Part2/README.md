@@ -28,6 +28,8 @@ Configured **Group Policies, permissions, login scripts, and user accounts**.
 
 ### 3. Linked GPOs to OUs
 📸 *Screenshot: GPO link result*
+<img width="977" height="786" alt="image" src="https://github.com/user-attachments/assets/88bbaaf1-9a88-4565-bf5e-f56c0ac9e997" />
+<img width="988" height="775" alt="image" src="https://github.com/user-attachments/assets/d267af55-f263-478d-b69e-39669c10b319" />
 
 ---
 
