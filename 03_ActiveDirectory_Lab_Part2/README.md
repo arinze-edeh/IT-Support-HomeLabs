@@ -42,6 +42,7 @@ Configured **Group Policies, permissions, login scripts, and user accounts**.
 
 ### 5. Tested Policies with Client VM
 📸 *Screenshot: Resulting policy applied*
+<img width="1020" height="891" alt="Screenshot025235" src="https://github.com/user-attachments/assets/49882850-ccf0-4c71-8610-414a118249a5" />
 
 ---
 
