@@ -33,8 +33,10 @@ Configured **Group Policies, permissions, login scripts, and user accounts**.
 
 ---
 
-### 4. Applied Login Scripts (Optional)
+### 4. Applied Login Scripts
 📸 *Screenshot: Script path*
+<img width="952" height="778" alt="Screenshot014118" src="https://github.com/user-attachments/assets/cedd8678-5b2a-42e3-a912-b865adefdbe6" />
+<img width="961" height="786" alt="Screenshot020444" src="https://github.com/user-attachments/assets/9db92d52-ef12-4d4c-bd3f-b67fcade7df5" />
 
 ---
 
