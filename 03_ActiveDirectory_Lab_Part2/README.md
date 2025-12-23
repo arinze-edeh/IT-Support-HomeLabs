@@ -35,7 +35,8 @@ Configured **Group Policies, permissions, login scripts, and user accounts**.
 
 ### 4. Applied Login Scripts
 📸 *Screenshot: Script path*
-<img width="952" height="778" alt="Screenshot014118" src="https://github.com/user-attachments/assets/cedd8678-5b2a-42e3-a912-b865adefdbe6" />
+<img width="967" height="845" alt="Screenshot044122" src="https://github.com/user-attachments/assets/b2aec2a2-0823-4604-af9b-1c68d1e0d851" />
+
 <img width="961" height="786" alt="Screenshot020444" src="https://github.com/user-attachments/assets/9db92d52-ef12-4d4c-bd3f-b67fcade7df5" />
 
 ---
