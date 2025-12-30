@@ -55,16 +55,64 @@ Configured **Group Policies, permissions, login scripts, and user accounts**.
 ---
 
 ## 📘 What I Learned
-- How to design and apply GPOs  
-- Group vs OU strategy  
-- Security and permissions  
+
+- How to join a Windows client machine to an Active Directory domain.
+- The importance of correct DNS configuration for domain authentication and Group Policy.
+- How Active Directory uses DNS to resolve domain services.
+- How to create and apply Group Policy Objects (GPOs) to Organizational Units.
+- How to verify Group Policy application using `gpupdate /force` and `gpresult /r`.
+- How to troubleshoot domain login issues related to password resets.
+- The difference between local user authentication and domain user authentication.
+- How to diagnose and fix client-side Group Policy issues.
+- How domain-level Group Policies override local Group Policy settings.
+- The importance of proper network configuration in virtualized lab environments.
+  
 
 ---
 
 ## ❗ Issues & Fixes
-[Add notes]
+
+### 1. Client VM Not Joined to Domain
+**Issue:** Windows 10 client displayed `WORKGROUP` instead of the domain.  
+**Fix:**  
+- Joined the client to `arinzelab.local` using domain administrator credentials.  
+- Restarted the system to complete domain membership.
+
+---
+
+### 2. Domain Name Not Resolving
+**Issue:** `ping arinzelab.local` failed with “host not found.”  
+**Fix:**  
+- Configured the client’s DNS to point to the Domain Controller.  
+- Cleared the DNS cache using `ipconfig /flushdns`.
+
+---
+
+### 3. DHCP Renewal Failure
+**Issue:** `ipconfig /renew` failed with a DHCP timeout error.  
+**Fix:**  
+- Ensured both client and server were on the same internal network.  
+- Verified the DHCP service was running on the Domain Controller.
+
+---
+
+### 4. Domain User Login Failure After Password Reset
+**Issue:** User could not log in after a forced password change.  
+**Fix:**  
+- Reset the password without enforcing an immediate change.  
+- Logged in using the correct format: `arinzelab\jdoe`.
+
+---
+
+### 5. Group Policy Not Applying
+**Issue:** Group Policy Objects appeared not to apply to the client system.  
+**Fix:**  
+- Ran `gpresult /r` to confirm policy application.  
+- Verified that **Disable Control Panel** and **LoginScript-GPO** were applied.
+
 
 ---
 
 ## ✅ Final Outcome
-Functional domain with users, groups, and group policies.
+Successfully joined the domain, authenticated domain users correctly, and applied Group Policy Objects as expected.
+
