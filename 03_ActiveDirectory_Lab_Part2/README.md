@@ -28,7 +28,8 @@ Configured **Group Policies, permissions, login scripts, and user accounts**.
 
 ### 3. Linked GPOs to OUs
 📸 *Screenshot: GPO link result*
-<img width="977" height="786" alt="image" src="https://github.com/user-attachments/assets/88bbaaf1-9a88-4565-bf5e-f56c0ac9e997" />
+<img width="997" height="894" alt="Screenshot054628" src="https://github.com/user-attachments/assets/1924411e-2d81-4968-bf0a-66fa8ea39154" />
+
 <img width="988" height="775" alt="image" src="https://github.com/user-attachments/assets/d267af55-f263-478d-b69e-39669c10b319" />
 
 ---
@@ -44,6 +45,10 @@ Configured **Group Policies, permissions, login scripts, and user accounts**.
 ### 5. Tested Policies with Client VM
 📸 *Screenshot: Resulting policy applied*
 <img width="1020" height="891" alt="Screenshot025235" src="https://github.com/user-attachments/assets/49882850-ccf0-4c71-8610-414a118249a5" />
+<img width="1030" height="774" alt="Screenshot060858" src="https://github.com/user-attachments/assets/b7f0998d-c0fa-4b04-bbda-e0b097d276b6" />
+
+<img width="988" height="766" alt="Screenshot055852" src="https://github.com/user-attachments/assets/ddb0d9dd-73c1-4716-8411-66dbef6f9f45" />
+
 <img width="969" height="515" alt="Screenshot020315" src="https://github.com/user-attachments/assets/b634a310-1a79-480d-9f5e-ab3949be81fd" />
 
 
