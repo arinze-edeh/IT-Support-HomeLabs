@@ -68,6 +68,10 @@ System integrity was verified using System File Checker (SFC). System integrity 
 
 📸 *Screenshot: final working state*
 
+<img width="1150" height="1079" alt="Screenshot 2025-12-31 235945" src="https://github.com/user-attachments/assets/8d7e23bd-c566-4319-82db-fcaceb307062" />
+<img width="1152" height="1078" alt="Screenshot 2026-01-01 000356" src="https://github.com/user-attachments/assets/167965a6-629a-4586-9c96-421a3505fc7b" />
+<img width="1155" height="1076" alt="Screenshot 2026-01-01 000909" src="https://github.com/user-attachments/assets/09aa1844-172b-45a2-84a1-aaf19f90053e" />
+
 
 ---
 
