@@ -1,4 +1,4 @@
-<img width="1153" height="1079" alt="Screenshot 2025-12-31 211318" src="https://github.com/user-attachments/assets/fd5b4999-8175-465b-9c76-ac030ad17aac" /># 05 – Windows Troubleshooting Lab
+# 05 – Windows Troubleshooting Lab
 
 ## 📌 Overview
 Simulated common Windows system issues and performed real troubleshooting.
@@ -18,7 +18,7 @@ Simulated common Windows system issues and performed real troubleshooting.
 ### 1. Simulated Common Errors
 Two startup applications were found disabled in Task Manager, causing them to fail to launch during user login. The issue was identified by checking startup settings and resolved by re-enabling the applications.
 
-📸 *Screenshot: Error message*
+📸 *Screenshot: Disabled/Enabled startup applications*
 
 <img width="1153" height="1079" alt="Screenshot 2025-12-31 211318" src="https://github.com/user-attachments/assets/c330aab9-9d38-4733-ac79-a0e8cfe0bb1e" />
 
