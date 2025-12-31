@@ -52,6 +52,8 @@ A malware scan was performed using Windows Security. No threats were detected, c
 ---
 
 ### 4. Printer Troubleshooting
+Printer issues were investigated by checking printer discovery and print queues. The Print Spooler service was restarted to restore printer functionality.
+
 📸 *Screenshot: printer queue fix*
 
 ---
