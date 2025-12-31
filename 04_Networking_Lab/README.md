@@ -53,10 +53,7 @@ Practiced DNS, DHCP, subnetting, IP troubleshooting, and packet capture.
 
 ### 5. Troubleshooting Scenarios
 
-A DNS misconfiguration was intentionally introduced on the client machine by pointing the DNS server to an external address.
-This caused domain name resolution to fail.
-The issue was identified using ipconfig /all and resolved by restoring the DNS server to the domain controller.
-Connectivity and name resolution were successfully restored.
+A DNS misconfiguration scenario was simulated by isolating the client from the domain DNS server. With the domain-connected adapter disabled, name resolution failed as expected. The issue was identified using ipconfig /all and resolved by restoring connectivity to the domain controller, after which DNS resolution was successfully restored.
 
 📸 *Screenshot: before & after fix*
 
