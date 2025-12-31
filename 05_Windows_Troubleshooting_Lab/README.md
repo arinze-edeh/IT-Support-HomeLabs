@@ -28,7 +28,15 @@ Two startup applications were found disabled in Task Manager, causing them to fa
 ---
 
 ### 2. Checked Event Viewer Logs
+Event Viewer was used to review application logs and identify warnings and system events. No critical startup errors were observed, confirming that the issue was configuration-related rather than system failure.
+
 📸 *Screenshot: event logs*
+
+<img width="1153" height="1079" alt="Screenshot 2025-12-31 220714" src="https://github.com/user-attachments/assets/7c79fad1-88da-4723-b49d-f78d4e42e712" />
+<img width="1154" height="1079" alt="Screenshot 2025-12-31 220806" src="https://github.com/user-attachments/assets/dd6679c2-a8a4-47f3-a9c9-1fd8507585d9" />
+<img width="1149" height="1079" alt="Screenshot 2025-12-31 220841" src="https://github.com/user-attachments/assets/715cf654-9735-4c16-879b-e73aefa4a9be" />
+<img width="1153" height="1079" alt="Screenshot 2025-12-31 220931" src="https://github.com/user-attachments/assets/8fec11c6-384c-47a9-9391-5b4845998bf1" />
+
 
 ---
 
