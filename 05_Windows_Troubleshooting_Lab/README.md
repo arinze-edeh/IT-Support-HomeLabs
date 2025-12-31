@@ -56,6 +56,11 @@ Printer issues were investigated by checking printer discovery and print queues.
 
 📸 *Screenshot: printer queue fix*
 
+<img width="1151" height="1079" alt="Screenshot 2025-12-31 225941" src="https://github.com/user-attachments/assets/91d971b4-bb23-40a3-bd11-c891d08a16b2" />
+<img width="1146" height="1079" alt="Screenshot 2025-12-31 230031" src="https://github.com/user-attachments/assets/249797a4-5dde-45ec-82c4-4967f6cca5ee" />
+<img width="1144" height="1079" alt="Screenshot 2025-12-31 230147" src="https://github.com/user-attachments/assets/ec019e72-dfa2-4821-b20d-e14b3abf1268" />
+<img width="1152" height="1079" alt="Screenshot 2025-12-31 230321" src="https://github.com/user-attachments/assets/b076fe28-95ef-4780-8df3-2110d4c5e4b2" />
+
 ---
 
 ### 5. Restored System / Applied Fix
