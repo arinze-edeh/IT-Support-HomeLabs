@@ -28,6 +28,8 @@ Practiced DNS, DHCP, subnetting, IP troubleshooting, and packet capture.
 
 ### 2. Configured DNS Zones
 📸 *Screenshot: DNS zone creation*
+<img width="960" height="1079" alt="Screenshot 202031311" src="https://github.com/user-attachments/assets/ae987da2-337e-4240-b004-9a16ba67177c" />
+<img width="959" height="1079" alt="Screenshot 202031723" src="https://github.com/user-attachments/assets/843d44f6-3ada-453d-a2ad-cc19ee5838a9" />
 
 ---
 
