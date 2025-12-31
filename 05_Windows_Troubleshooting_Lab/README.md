@@ -41,7 +41,13 @@ Event Viewer was used to review application logs and identify warnings and syste
 ---
 
 ### 3. Performed Malware Cleanup
+A malware scan was performed using Windows Security. No threats were detected, confirming system integrity.
+
 📸 *Screenshot: scan results*
+
+<img width="1151" height="1079" alt="Screenshot 2025-12-31 222708" src="https://github.com/user-attachments/assets/d89034a0-9923-4248-8dca-e95f898b5ea2" />
+<img width="1150" height="1079" alt="Screenshot 2025-12-31 222836" src="https://github.com/user-attachments/assets/b6a1eb47-62f4-4d83-8601-0a9c716f7cb7" />
+<img width="1151" height="1079" alt="Screenshot 2025-12-31 223029" src="https://github.com/user-attachments/assets/35b60814-77da-43ac-bc3f-4cc32107ce75" />
 
 ---
 
