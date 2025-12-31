@@ -148,4 +148,11 @@ A DNS misconfiguration scenario was simulated by isolating the client from the d
 ---
 
 ## ✅ Final Outcome
-Stronger practical networking skills and troubleshooting experience.
+
+- Successfully configured and verified DHCP services, ensuring dynamic IP address assignment to client machines.
+- Created and validated DNS zones, enabling proper domain name resolution within the network.
+- Confirmed end-to-end network connectivity using `ping` and `tracert`.
+- Captured and analyzed network traffic using Wireshark to observe DNS and ICMP packet behavior.
+- Simulated a real-world DNS misconfiguration scenario and accurately identified the root cause.
+- Resolved connectivity and name resolution issues by restoring correct DNS and network adapter configurations.
+- Gained hands-on experience troubleshooting enterprise-style networking issues in a Windows domain environment.
