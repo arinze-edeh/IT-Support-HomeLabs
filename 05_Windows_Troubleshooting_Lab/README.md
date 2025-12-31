@@ -64,7 +64,10 @@ Printer issues were investigated by checking printer discovery and print queues.
 ---
 
 ### 5. Restored System / Applied Fix
+System integrity was verified using System File Checker (SFC). No integrity violations were found, confirming the system was stable after troubleshooting.
+
 📸 *Screenshot: final working state*
+
 
 ---
 
