@@ -56,6 +56,10 @@ Practiced DNS, DHCP, subnetting, IP troubleshooting, and packet capture.
 A DNS misconfiguration scenario was simulated by isolating the client from the domain DNS server. With the domain-connected adapter disabled, name resolution failed as expected. The issue was identified using ipconfig /all and resolved by restoring connectivity to the domain controller, after which DNS resolution was successfully restored.
 
 📸 *Screenshot: before & after fix*
+<img width="1028" height="778" alt="Screenshot 2025-12-31 164817" src="https://github.com/user-attachments/assets/ea3c3493-d192-4c3f-91b7-a5f5082b907e" />
+<img width="1051" height="812" alt="Screenshot 2025-12-31 172342" src="https://github.com/user-attachments/assets/95d06832-2ffc-43a8-829f-082062f24c43" />
+<img width="1155" height="1079" alt="Screenshot 2025-12-31 172620" src="https://github.com/user-attachments/assets/a0dc4100-3447-48fb-b7d3-e59af2ba4dc0" />
+<img width="1154" height="1079" alt="Screenshot 2025-12-31 173448" src="https://github.com/user-attachments/assets/327860d3-a8a2-4fad-8e21-50693f875fb4" />
 
 ---
 
