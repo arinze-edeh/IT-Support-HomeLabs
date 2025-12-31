@@ -35,6 +35,8 @@ Practiced DNS, DHCP, subnetting, IP troubleshooting, and packet capture.
 
 ### 3. Performed Connectivity Tests
 📸 *Screenshot: ping/tracert output*
+<img width="959" height="779" alt="Screenshot 20232955" src="https://github.com/user-attachments/assets/23242697-13e5-4dc0-867c-d502cf32ce2d" />
+<img width="962" height="1079" alt="Screenshot 20233434" src="https://github.com/user-attachments/assets/7046605d-2d13-4a20-94ea-b44d5e773dd1" />
 
 ---
 
