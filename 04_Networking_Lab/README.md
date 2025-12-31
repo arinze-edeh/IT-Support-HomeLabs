@@ -1,15 +1,27 @@
 # 04 – Networking Lab
 
 ## 📌 Overview
-Practiced DNS, DHCP, subnetting, IP troubleshooting, and packet capture.
+
+This lab focused on building and troubleshooting core networking services within a Windows domain environment. The objective was to configure DHCP and DNS, verify client connectivity, analyze network traffic, and simulate real-world troubleshooting scenarios. Through hands-on testing, common networking issues were identified and resolved using industry-standard tools and techniques.
 
 ---
 
 ## 🛠️ Tools Used
-- DNS Manager
-- DHCP Server
-- Wireshark
-- Command-line tools (ping, tracert, ipconfig)
+
+- **Windows Server**
+  - DHCP Server
+  - DNS Server
+  - DNS Manager
+  - DHCP Management Console
+
+- **Client Machine (Windows 10)**
+  - Command Prompt (`ipconfig`, `ping`, `tracert`, `nbtstat`)
+
+- **Packet Analysis**
+  - Wireshark
+
+- **Virtualization**
+  - VirtualBox
 
 ---
 
