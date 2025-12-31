@@ -42,6 +42,12 @@ Practiced DNS, DHCP, subnetting, IP troubleshooting, and packet capture.
 
 ### 4. Captured Packets with Wireshark
 📸 *Screenshot: Wireshark capture*
+<img width="1027" height="895" alt="Screenshot 2025-12-31 044449" src="https://github.com/user-attachments/assets/0fcd2968-08db-4366-8519-c6f729a09634" />
+<img width="788" height="591" alt="Screenshot 2025-12-31 050413" src="https://github.com/user-attachments/assets/012c1bab-eaca-4305-9ce7-aebb47e44e61" />
+<img width="788" height="591" alt="Screenshot 2025-12-31 050413" src="https://github.com/user-attachments/assets/2c7901e7-f4f4-4be7-9d0f-4ac6e8197234" />
+<img width="1037" height="783" alt="Screenshot 2025-12-31 054228" src="https://github.com/user-attachments/assets/44bcd675-fd01-46e2-bac6-6e0ec9f6b7f8" />
+<img width="1048" height="784" alt="Screenshot 2025-12-31 054550" src="https://github.com/user-attachments/assets/0916554e-b67d-4073-9f33-c998bf776b86" />
+<img width="1035" height="779" alt="Screenshot 2025-12-31 054616" src="https://github.com/user-attachments/assets/381ce843-af93-4c19-b9ab-e7cf0fdb347f" />
 
 ---
 
