@@ -64,7 +64,7 @@ Printer issues were investigated by checking printer discovery and print queues.
 ---
 
 ### 5. Restored System / Applied Fix
-System integrity was verified using System File Checker (SFC). No integrity violations were found, confirming the system was stable after troubleshooting.
+System integrity was verified using System File Checker (SFC). System integrity issues were detected during the System File Checker (SFC) scan. Windows Resource Protection successfully repaired the corrupted system files, restoring system stability.
 
 📸 *Screenshot: final working state*
 
