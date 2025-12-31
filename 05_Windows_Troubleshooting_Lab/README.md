@@ -1,15 +1,21 @@
 # 05 – Windows Troubleshooting Lab
 
 ## 📌 Overview
-Simulated common Windows system issues and performed real troubleshooting.
+- Simulated real-world Windows operating system issues commonly handled by IT Support technicians
+- Practiced identifying, diagnosing, and resolving system-level problems
+- Used built-in Windows tools to investigate errors, security concerns, and service failures
+- Focused on structured troubleshooting and proper documentation of fixes
 
 ---
 
 ## 🛠️ Tools Used
-- Windows Event Viewer
+- Windows 10 (Client VM)
 - Task Manager
-- Sysinternals
-- Malware removal tools
+- Windows Event Viewer
+- Windows Security (Defender)
+- Services Console (`services.msc`)
+- Command Prompt (Administrator)
+- System File Checker (`sfc /scannow`)
 
 ---
 
@@ -76,16 +82,41 @@ System integrity was verified using System File Checker (SFC). System integrity 
 ---
 
 ## 📘 What I Learned
-- How to diagnose Windows issues  
-- How to repair OS without reinstall  
-- How logs and tools help identify root cause  
+- How startup applications can silently fail without displaying error messages
+- How to use Event Viewer to investigate application and system events
+- How to safely perform malware detection using built-in security tools
+- How printer issues are often caused by stalled services such as Print Spooler
+- How to verify and repair system integrity using System File Checker (SFC)
+- The importance of validating system stability after applying fixes
 
 ---
 
 ## ❗ Issues & Fixes
-[Add notes]
+- **Startup application failed to launch automatically**
+  - Identified disabled startup entries in Task Manager
+  - Resolved by re-enabling the startup applications
+
+- **No visible error messages for startup issues**
+  - Investigated system activity using Event Viewer logs
+  - Confirmed issue was configuration-related, not a system failure
+
+- **Potential malware concern**
+  - Performed a full security scan using Windows Security
+  - Verified system was free from threats
+
+- **Printer discovery and queue issues**
+  - Restarted Print Spooler service via Services Console
+  - Restored printer functionality
+
+- **System file corruption detected**
+  - Ran `sfc /scannow` as administrator
+  - Windows Resource Protection repaired corrupted files successfully
 
 ---
 
 ## ✅ Final Outcome
-Able to systematically troubleshoot Windows problems end-to-end.
+- Successfully simulated and resolved multiple Windows troubleshooting scenarios
+- Restored system stability after detecting and repairing corrupted system files
+- Gained hands-on experience using enterprise-grade Windows diagnostic tools
+- Improved confidence in structured problem-solving and root cause analysis
+- Demonstrated real-world IT Support skills applicable to helpdesk and junior sysadmin roles
