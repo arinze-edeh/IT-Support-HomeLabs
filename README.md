@@ -39,8 +39,7 @@ This repository showcases my **hands-on projects and labs** designed to build pr
 | 13 | Patch Management Lab | Simulate updates and testing with WSUS concepts |
 
 > Each lab folder contains:
-> - **README.md** – Steps performed, screenshots, outcome  
-> - **screenshots/** – Key screenshots showing the work done   
+> - **README.md** – Steps performed, screenshots, outcome     
 
 ---
 
