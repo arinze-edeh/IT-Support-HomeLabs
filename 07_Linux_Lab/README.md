@@ -45,6 +45,8 @@ Created a scheduled cron job that runs every 5 minutes and writes status output 
 
 📸 *Screenshot: crontab entry*
 
+<img width="1154" height="1079" alt="image" src="https://github.com/user-attachments/assets/83b08fcf-61a2-47c3-8d96-9e5300634b40" />
+
 ---
 
 ### 5. Managed Users & Permissions
