@@ -15,16 +15,23 @@ Installed and configured Ubuntu Server with SSH, web services, and cron jobs.
 ## 🧩 Steps Performed
 
 ### 1. Installed Ubuntu Server
+
 📸 *Screenshot: installation menu*
+<img width="866" height="1079" alt="Screenshot 2026-01-01 065337" src="https://github.com/user-attachments/assets/e85ce5f3-31d4-415a-993e-8786239c37d4" />
+<img width="1281" height="924" alt="Screenshot 2026-01-01 065315" src="https://github.com/user-attachments/assets/238827e9-127a-4a07-b2d6-a1a382f69445" />
 
 ---
 
 ### 2. Enabled SSH Access
+
 📸 *Screenshot: SSH service status*
+
+<img width="1155" height="1079" alt="Screenshot 2026-01-01 070654" src="https://github.com/user-attachments/assets/de23f41b-fba8-4664-a021-ff1161ffd933" />
 
 ---
 
 ### 3. Installed Apache/Nginx
+
 📸 *Screenshot: web server running*
 
 ---
