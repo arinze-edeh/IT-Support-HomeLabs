@@ -33,17 +33,28 @@ Simulated real IT support tickets using GLPI / Jira / OTRS.
 ---
 
 ### 3. Assigned and Resolved Tickets
+
 📸 *Screenshot: ticket resolution*
+
+<img width="1152" height="1079" alt="image" src="https://github.com/user-attachments/assets/2e8453e6-eeeb-4d26-af6d-9a3b134736d9" />
 
 ---
 
 ### 4. Added Comments & Documentation
+
 📸 *Screenshot: ticket notes*
+
+<img width="1155" height="1079" alt="image" src="https://github.com/user-attachments/assets/c3d2aa98-bc14-4b22-bb19-d67b78ba4b59" />
 
 ---
 
 ### 5. Closed Tickets
+
 📸 *Screenshot: closed ticket*
+
+<img width="1152" height="1079" alt="image" src="https://github.com/user-attachments/assets/137b28c8-8aa0-4e61-b7c4-e7b5a2e94b4c" />
+
+
 
 ---
 
