@@ -45,7 +45,11 @@ Created a scheduled cron job that runs every 5 minutes and writes status output 
 
 📸 *Screenshot: crontab entry*
 
+<img width="1152" height="924" alt="Screenshot 2026-01-01 080338" src="https://github.com/user-attachments/assets/f6267e84-7d1d-47a8-baec-2981c4d1c619" />
+
 <img width="1154" height="1079" alt="image" src="https://github.com/user-attachments/assets/83b08fcf-61a2-47c3-8d96-9e5300634b40" />
+<img width="1154" height="1079" alt="image" src="https://github.com/user-attachments/assets/652e7f13-e157-4201-8c81-bb283debde2f" />
+
 
 ---
 
