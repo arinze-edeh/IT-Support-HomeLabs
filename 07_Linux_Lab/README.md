@@ -41,6 +41,8 @@ curl http://localhost output
 ---
 
 ### 4. Created Cron Jobs
+Created a scheduled cron job that runs every 5 minutes and writes status output to a log file, verifying automated task execution on Ubuntu Server.
+
 📸 *Screenshot: crontab entry*
 
 ---
