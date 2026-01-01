@@ -25,12 +25,15 @@ Verified OU creation using Get-ADOrganizationalUnit to ensure proper directory s
 <img width="1152" height="1079" alt="Screenshot 2026-01-01 161104" src="https://github.com/user-attachments/assets/4f25053e-a203-4a49-b923-20761f4a1e06" />
 <img width="1155" height="1079" alt="image" src="https://github.com/user-attachments/assets/50cf7b59-3c69-449d-b168-c17209b5119f" />
 <img width="1151" height="1079" alt="image" src="https://github.com/user-attachments/assets/a5bbedf5-97cf-46d5-80df-22881df1baa5" />
-
-
+<img width="1150" height="1079" alt="image" src="https://github.com/user-attachments/assets/b4fd7e15-2cd6-411d-9ea6-074946e2120d" />
 
 ---
 
 ### 2. Automated OU Assignments
+
+Created a PowerShell script to automatically assign newly created users to the Automation_Users Organizational Unit.
+Validated OU placement using Get-ADUser with SearchBase filtering.
+
 📸 *Screenshot: script execution*
 
 ---
