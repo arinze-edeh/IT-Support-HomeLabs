@@ -32,7 +32,11 @@ Installed and configured Ubuntu Server with SSH, web services, and cron jobs.
 
 ### 3. Installed Apache/Nginx
 
-📸 *Screenshot: web server running*
+📸 *Screenshot: Apache service running (local test via curl)*
+
+curl http://localhost output
+<img width="1156" height="1079" alt="image" src="https://github.com/user-attachments/assets/918a549b-b90c-4525-868a-356d8fe84349" />
+
 
 ---
 
