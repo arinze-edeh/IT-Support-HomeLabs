@@ -19,8 +19,7 @@ Automated user creation and administrative tasks using PowerShell.
 
 <img width="1150" height="1079" alt="Screenshot 2026-01-01 153714" src="https://github.com/user-attachments/assets/50e9161a-04f8-4942-afc3-ebe5690cdd1c" />
 <img width="1150" height="1079" alt="Screenshot 2026-01-01 154115" src="https://github.com/user-attachments/assets/2508954e-0446-41a4-ad5a-b88a51704722" />
-
-
+<img width="1152" height="1079" alt="Screenshot 2026-01-01 161104" src="https://github.com/user-attachments/assets/4f25053e-a203-4a49-b923-20761f4a1e06" />
 <img width="1149" height="1079" alt="image" src="https://github.com/user-attachments/assets/fa18ee22-e1d8-465f-a161-41d210b1a156" />
 
 
