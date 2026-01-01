@@ -1,13 +1,16 @@
 # 06 – Ticketing System Lab
 
 ## 📌 Overview
-Simulated real IT support tickets using GLPI / Jira / OTRS.
-
+- Simulated real-world IT support workflows using a ticketing system
+- Practiced creating, assigning, resolving, and closing support tickets
+- Focused on proper documentation and communication within a helpdesk environment
+- Demonstrated understanding of ticket lifecycle management used in enterprise IT teams
 ---
 
 ## 🛠️ Tools Used
-- GLPI
-- Browser
+- GLPI (Web-based ticketing system)
+- Web Browser
+- Windows 10 (Client VM)
 
 ---
 
@@ -59,16 +62,32 @@ Simulated real IT support tickets using GLPI / Jira / OTRS.
 ---
 
 ## 📘 What I Learned
-- Practical ticket workflow  
-- Incident documentation  
-- Prioritization and escalation  
+- How IT support teams use ticketing systems to track and manage user issues
+- The importance of clear ticket titles and detailed issue descriptions
+- How to assign tickets and manage ticket statuses (New, Processing, Solved, Closed)
+- How to document troubleshooting steps and resolutions within tickets
+- How proper ticket closure confirms issue resolution and accountability
 
 ---
 
 ## ❗ Issues & Fixes
-[Add notes]
+- **User reported Wi-Fi connectivity issue**
+  - Ticket created to document the problem
+  - Issue assigned and investigated
+  - Network adapter restarted and connectivity verified
+  - Resolution documented in the ticket
+
+- **User reported printer not responding**
+  - Ticket created with hardware category
+  - Printer status reviewed and print service verified
+  - Notes added to document troubleshooting steps
+  - Ticket marked as resolved and closed
 
 ---
 
 ## ✅ Final Outcome
-Simulated real-life IT help desk ticket management.
+- Successfully simulated a complete IT support ticket lifecycle
+- Created and managed multiple tickets from creation to closure
+- Demonstrated effective documentation and communication skills
+- Gained hands-on experience with tools commonly used by IT helpdesk teams
+- Strengthened readiness for entry-level IT support and helpdesk roles
