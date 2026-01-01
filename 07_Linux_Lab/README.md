@@ -1,14 +1,18 @@
 # 07 – Linux Server Lab
 
 ## 📌 Overview
-Installed and configured Ubuntu Server with SSH, web services, and cron jobs.
+- This lab focused on automating recurring tasks on a Linux server.
+- Cron was used to schedule commands to run at fixed time intervals.
+- The lab demonstrated how system administrators automate maintenance and monitoring tasks.
 
 ---
 
 ## 🛠️ Tools Used
-- Ubuntu Server
-- SSH
-- Terminal
+- Ubuntu Server 24.04 LTS
+- Cron (crond service)
+- crontab command
+- Nano text editor
+- VirtualBox (Lab Environment)
 
 ---
 
@@ -54,22 +58,54 @@ Created a scheduled cron job that runs every 5 minutes and writes status output 
 ---
 
 ### 5. Managed Users & Permissions
+
 📸 *Screenshot: commands and output*
+
+<img width="1155" height="1079" alt="image" src="https://github.com/user-attachments/assets/4bb07d84-0749-49c0-a856-073339baa2f9" />
+<img width="1059" height="805" alt="image" src="https://github.com/user-attachments/assets/60894319-0773-4e05-bd9b-e461a405b8b6" />
+
 
 ---
 
 ## 📘 What I Learned
-- Linux command-line basics  
-- Service management  
-- File permissions  
-- Web server setup  
+- How cron works as a task scheduling service in Linux
+- Understanding cron timing syntax:
+  - minute
+  - hour
+  - day of month
+  - month
+  - day of week
+- How to create and edit cron jobs using:
+  - `crontab -e`
+- How to list scheduled cron jobs using:
+  - `crontab -l`
+- How cron jobs run in the background without user interaction
+- How to log cron job output to files for verification
 
 ---
 
 ## ❗ Issues & Fixes
-[Add notes]
+- ---
+- Issue:
+  - CTRL + X did not exit the editor
+- Fix:
+  - Confirmed the editor in use and followed the correct nano exit steps:
+    - CTRL + X
+    - Press Y to save
+    - Press ENTER to confirm filename
 
+- ---
+- Issue:
+  - Unsure if the cron job was saved correctly
+- Fix:
+  - Used `crontab -l` to verify the cron job was installed successfully
+      
 ---
 
 ## ✅ Final Outcome
-Functional Linux server with key configurations.
+- ---
+- A cron job was successfully created to run every 5 minutes
+- The job appends a message to a log file:
+  - `/tmp/cronlog.txt`
+- The cron job was verified using `crontab -l`
+- Automation concepts relevant to system administration and DevOps were successfully practiced
