@@ -12,8 +12,8 @@ This repository showcases my **hands-on projects and labs** designed to build pr
 - **Networking:** TCP/IP, DNS, DHCP, Subnetting, Troubleshooting  
 - **Cloud Platforms:** AWS (CCP), Microsoft Azure Fundamentals  
 - **Automation & Scripting:** PowerShell basics  
-- **IT Support Tools:** Active Directory, Group Policies, Ticketing Systems (Jira / GLPI / OTRS)  
-- **Virtualization:** Hyper-V, VirtualBox, Proxmox  
+- **IT Support Tools:** Active Directory, Group Policies, Ticketing System (GLPI)  
+- **Virtualization:** VirtualBox  
 - **Monitoring Tools:** Zabbix, PRTG, Wazuh  
 - **Backup & Patch Management**  
 - **Remote Support Tools** (RDP, VNC, SSH)
@@ -29,7 +29,7 @@ This repository showcases my **hands-on projects and labs** designed to build pr
 | 03 | Active Directory Lab (Part 2) | Group Policies, permissions, login scripts |
 | 04 | Networking Lab | DNS, DHCP, IP troubleshooting, Wireshark packet capture |
 | 05 | Windows OS Troubleshooting Lab | BSOD, startup issues, printer problems, malware cleanup |
-| 06 | Ticketing System Lab | Simulate IT tickets using Jira / GLPI / OTRS |
+| 06 | Ticketing System Lab | Simulate IT tickets using GLPI |
 | 07 | Linux Server Lab | Ubuntu setup, SSH, Apache/Nginx, cron jobs |
 | 08 | PowerShell Automation Lab | Automate user creation and permissions |
 | 09 | Azure Fundamentals Lab | Create VM, storage, VNet, IAM roles |
@@ -74,7 +74,7 @@ This provides **visual proof of hands-on experience**.
 
 ## ⚡ Outcome
 
-By completing and documenting these 13 labs, I demonstrate:
+By completing and documenting these labs, I demonstrate:
 
 - Practical IT support skills  
 - Ability to troubleshoot and resolve real IT issues  
