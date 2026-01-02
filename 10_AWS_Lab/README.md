@@ -15,7 +15,10 @@ Launched EC2 instance, S3 bucket, IAM, and security groups.
 ### 1. Created IAM User
 📸 *Screenshot: IAM user*
 
-<img width="1919" height="941" alt="image" src="https://github.com/user-attachments/assets/d6e7e427-bd1e-4fad-9d3a-554fb8394eaa" />
+<img width="1919" height="941" alt="Screenshot 2026-01-03 001809" src="https://github.com/user-attachments/assets/c3f14038-332b-46c9-9b0e-7f8a8a13d1aa" />
+<img width="1919" height="946" alt="Screenshot 2026-01-03 001609" src="https://github.com/user-attachments/assets/c212bc96-0181-400b-b223-d29224bd22fc" />
+
+
 
 
 ---
