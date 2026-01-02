@@ -46,7 +46,11 @@ A Virtual Network and subnet were automatically created during VM deployment via
 ---
 
 ### 4. Created Azure Storage Account
+
 📸 *Screenshot: storage dashboard*
+<img width="1148" height="952" alt="Screenshot 2026-01-02 155336" src="https://github.com/user-attachments/assets/ad7a7d89-5196-44c8-9860-8b0d759406a3" />
+<img width="1149" height="950" alt="Screenshot 2026-01-02 155412" src="https://github.com/user-attachments/assets/1fd23c19-8e21-45c0-bcd9-686fc924d2b6" />
+<img width="1919" height="955" alt="image" src="https://github.com/user-attachments/assets/b7e36005-d12f-43d1-a335-c851c8bb183a" />
 
 ---
 
