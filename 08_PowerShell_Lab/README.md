@@ -69,7 +69,13 @@ Validated successful user creation using multiple verification methods. Confirme
 ---
 
 ### 5. Enhanced Script with Error Handling
-📸 *Screenshot: improved script*
+
+The PowerShell script was enhanced to improve robustness and prevent execution failures during Active Directory user creation. User existence validation was implemented using `Get-ADUser` to avoid duplicate accounts. Automated password generation was securely handled with `ConvertTo-SecureString`. Basic error handling logic was added to gracefully manage failures and provide clear console feedback for successful creation, existing users, and error conditions. These enhancements make the script safer, idempotent, and more suitable for repeated administrative use in Active Directory environments.
+
+📸 *Screenshot: Improved script with error handling*
+
+<img width="1157" height="1079" alt="image" src="https://github.com/user-attachments/assets/7976db4b-b176-4262-9144-3ebbbac32d2f" />
+<img width="1157" height="1079" alt="image" src="https://github.com/user-attachments/assets/3fd86c09-c866-48e0-a223-37217c99107e" />
 
 ---
 
