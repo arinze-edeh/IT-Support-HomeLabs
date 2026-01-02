@@ -57,7 +57,14 @@ and eliminate hard-coded credentials.
 ---
 
 ### 4. Validated Users in AD
+
+Validated successful user creation using multiple verification methods. Confirmed user objects existed in the correct Organizational Unit (OU) via Active Directory Users and Computers (ADUC), verified attributes and status through PowerShell (`Get-ADUser`), and ensured uniqueness across the domain. Screenshots were captured for each validation method to demonstrate successful deployment and verification.
+
 📸 *Screenshot: AD user list*
+
+<img width="1149" height="1079" alt="image" src="https://github.com/user-attachments/assets/a4306632-cc54-4e74-ad94-d933b553da89" />
+<img width="1152" height="1079" alt="image" src="https://github.com/user-attachments/assets/dc0909f8-f8f2-47c2-8351-f848516e5409" />
+<img width="1148" height="1078" alt="image" src="https://github.com/user-attachments/assets/4c924515-3e35-450e-8f96-c11d535227c8" />
 
 ---
 
