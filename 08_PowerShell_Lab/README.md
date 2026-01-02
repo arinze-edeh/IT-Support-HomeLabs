@@ -31,10 +31,12 @@ Verified OU creation using Get-ADOrganizationalUnit to ensure proper directory s
 
 ### 2. Automated OU Assignments
 
-Created a PowerShell script to automatically assign newly created users to the Automation_Users Organizational Unit.
-Validated OU placement using Get-ADUser with SearchBase filtering.
+This focused on automating Active Directory user creation using PowerShell. Tasks included creating an Organizational Unit (OU), executing a user-creation script, and troubleshooting AD errors such as server processing failures and duplicate UPN conflicts. The lab concluded with successful automated user provisioning within the domain.
 
 📸 *Screenshot: script execution*
+
+<img width="1150" height="1079" alt="image" src="https://github.com/user-attachments/assets/5ac20a56-9b18-439e-b224-6f3acb94bf63" />
+<img width="1155" height="1079" alt="image" src="https://github.com/user-attachments/assets/8286ecff-c798-46ae-a3e7-508e43eb680a" />
 
 ---
 
