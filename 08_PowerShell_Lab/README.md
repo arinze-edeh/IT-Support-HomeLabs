@@ -1,13 +1,18 @@
 # 08 – PowerShell Automation Lab
 
 ## 📌 Overview
-Automated user creation and administrative tasks using PowerShell.
+
+- This lab focuses on automating Active Directory user management using PowerShell
+- The goal was to create, validate, and manage AD users programmatically
+- Emphasis was placed on security, automation, and error handling
 
 ---
 
 ## 🛠️ Tools Used
+- Windows Server (Domain Controller)
 - Windows PowerShell
-- Active Directory module
+- Active Directory Module for PowerShell
+- Active Directory Users and Computers (ADUC)
 
 ---
 
