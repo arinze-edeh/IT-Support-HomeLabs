@@ -85,9 +85,11 @@ The PowerShell script was enhanced to improve robustness and prevent execution f
 ---
 
 ## 📘 What I Learned
-- Script automation  
-- Error handling  
-- AD automation best practices  
+- How to import and use the Active Directory PowerShell module
+- How to automate user creation in a specific Organizational Unit (OU)
+- How to generate secure passwords programmatically
+- How to validate user existence before creation
+- How to enhance scripts with basic error handling 
 
 ---
 
