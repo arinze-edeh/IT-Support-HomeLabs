@@ -13,12 +13,16 @@ Deployed a virtual machine, created storage, configured networking, and tested I
 ## 🧩 Steps Performed
 
 ### 1. Created Resource Group
+
 📸 *Screenshot: resource group*
+
+<img width="1919" height="956" alt="image" src="https://github.com/user-attachments/assets/6b0c69d0-c9bc-4f16-a6ea-2e67fcc339e9" />
 
 ---
 
 ### 2. Deployed VM
 📸 *Screenshot: VM deployment*
+
 
 ---
 
