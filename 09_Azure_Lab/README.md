@@ -33,7 +33,15 @@ Deployed a virtual machine, created storage, configured networking, and tested I
 ---
 
 ### 3. Configured VNet & NSGs
+
+A Virtual Network and subnet were automatically created during VM deployment via the Networking configuration. Network Security Group rules were later customized to allow inbound traffic on port 8080.
+
 📸 *Screenshot: NSG rules*
+
+<img width="1126" height="949" alt="Screenshot 2026-01-02 153734" src="https://github.com/user-attachments/assets/e2aa982e-299c-4225-a779-d7c13609ede6" />
+<img width="1125" height="949" alt="Screenshot 2026-01-02 153749" src="https://github.com/user-attachments/assets/4a45cf5a-fd97-42e6-9a63-f51ac4e29559" />
+<img width="1919" height="949" alt="image" src="https://github.com/user-attachments/assets/7c861657-4f3f-4d0a-ba59-191e8cb1ee03" />
+
 
 ---
 
