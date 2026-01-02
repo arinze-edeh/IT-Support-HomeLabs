@@ -41,7 +41,18 @@ This focused on automating Active Directory user creation using PowerShell. Task
 ---
 
 ### 3. Generated Passwords Automatically
+
+Implemented automatic password generation within the PowerShell user-provisioning script. 
+Passwords are generated programmatically, converted to SecureString format, 
+and applied during Active Directory user creation to improve security 
+and eliminate hard-coded credentials.
+
 📸 *Screenshot: output*
+
+<img width="1148" height="1079" alt="image" src="https://github.com/user-attachments/assets/b481fd86-2cf6-4816-a994-771a2a57ab07" />
+<img width="1151" height="1079" alt="image" src="https://github.com/user-attachments/assets/7160ad97-171e-4e44-acf6-5765fb4c4fb1" />
+
+
 
 ---
 
