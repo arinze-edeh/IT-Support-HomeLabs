@@ -14,6 +14,8 @@ Deployed a virtual machine, created storage, configured networking, and tested I
 
 ### 1. Created Resource Group
 
+Created an Azure Resource Group to logically organize and manage all lab resources within a single lifecycle and region.
+
 📸 *Screenshot: resource group*
 
 <img width="1919" height="956" alt="image" src="https://github.com/user-attachments/assets/6b0c69d0-c9bc-4f16-a6ea-2e67fcc339e9" />
@@ -21,6 +23,8 @@ Deployed a virtual machine, created storage, configured networking, and tested I
 ---
 
 ### 2. Deployed VM
+
+Deployed an Azure virtual machine using the Azure Portal, configuring compute size, networking, and OS image for testing and management tasks.
 
 📸 *Screenshot: VM deployment*
 
@@ -47,6 +51,8 @@ A Virtual Network and subnet were automatically created during VM deployment via
 
 ### 4. Created Azure Storage Account
 
+Created an Azure Storage Account to provision scalable cloud storage and verified successful deployment via the storage account dashboard.
+
 📸 *Screenshot: storage dashboard*
 <img width="1148" height="952" alt="Screenshot 2026-01-02 155336" src="https://github.com/user-attachments/assets/ad7a7d89-5196-44c8-9860-8b0d759406a3" />
 <img width="1149" height="950" alt="Screenshot 2026-01-02 155412" src="https://github.com/user-attachments/assets/1fd23c19-8e21-45c0-bcd9-686fc924d2b6" />
@@ -55,7 +61,13 @@ A Virtual Network and subnet were automatically created during VM deployment via
 ---
 
 ### 5. Configured IAM Roles
+
+IAM roles were successfully configured at the resource group scope. The signed-in Azure user was assigned the Owner role, validating role assignment and access control configuration.
+
 📸 *Screenshot: IAM settings*
+
+<img width="1919" height="953" alt="image" src="https://github.com/user-attachments/assets/e2687a63-b893-4175-bd2f-2de018945be8" />
+<img width="1917" height="949" alt="Screenshot 2026-01-02 162548" src="https://github.com/user-attachments/assets/95d9d1c2-4557-47de-a151-42a43dfb235c" />
 
 ---
 
