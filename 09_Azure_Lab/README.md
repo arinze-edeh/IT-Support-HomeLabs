@@ -92,7 +92,18 @@ IAM roles were successfully configured at the resource group scope. The signed-i
 ---
 
 ## ❗ Issues & Fixes
-[Add notes]
+
+- **Issue: Deployment blocked by subscription region policy**
+   - Fix: Selected an Azure region allowed by the subscription policy
+
+- **Issue: VM size unavailable**
+   - Fix: Chose an alternative supported VM size
+
+- **Issue: Network traffic blocked**
+   - Fix: Configured NSG inbound rules to allow required traffic
+
+- **Issue: IAM role assignment validation uncertainty**
+   - Fix: Verified role assignments via IAM and Check Access
 
 ---
 
