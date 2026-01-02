@@ -1,12 +1,22 @@
 # 09 – Azure Fundamentals Lab
 
 ## 📌 Overview
-Deployed a virtual machine, created storage, configured networking, and tested IAM.
+
+- Deployed core Azure infrastructure components using the Azure Portal
+- Implemented compute, networking, storage, and access control services
+- Validated resource deployment and permissions within a constrained student subscription
 
 ---
 
 ## 🛠️ Tools Used
+
 - Microsoft Azure Portal
+- Azure Resource Groups
+- Azure Virtual Machines
+- Azure Virtual Network (VNet)
+- Network Security Groups (NSGs)
+- Azure Storage Account
+- Azure Role-Based Access Control (RBAC)
 
 ---
 
@@ -72,9 +82,12 @@ IAM roles were successfully configured at the resource group scope. The signed-i
 ---
 
 ## 📘 What I Learned
-- Cloud basics  
-- VMs, storage, networking  
-- Identity access management  
+
+- How Azure Resource Groups control resource organization and lifecycle
+- How to deploy and configure virtual machines in Azure
+- How VNets and NSGs control network traffic and security
+- How Azure Storage Accounts provide scalable cloud storage
+- How IAM (RBAC) enforces access control at subscription and resource levels 
 
 ---
 
@@ -84,4 +97,11 @@ IAM roles were successfully configured at the resource group scope. The signed-i
 ---
 
 ## ✅ Final Outcome
+
 Hands-on Azure foundational experience.
+- Resource Group successfully created
+- Virtual Machine deployed and operational
+- Virtual Network and NSG configured correctly
+- Azure Storage Account provisioned
+- IAM roles verified and validated
+- Azure fundamentals successfully implemented and documented
