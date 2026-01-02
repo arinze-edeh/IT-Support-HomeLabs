@@ -94,9 +94,22 @@ The PowerShell script was enhanced to improve robustness and prevent execution f
 ---
 
 ## ❗ Issues & Fixes
-[Add notes]
+- **Issue: Duplicate user creation attempts**
+   - Fix: Implemented Get-ADUser existence checks
+
+ - **Issue: Plain-text password handling**
+   - Fix: Converted passwords to SecureString format
+
+ - **Issue: Script errors stopping execution**
+   - Fix: Added conditional logic and error-handling output
+
+ - **Issue: Validation uncertainty**
+   - Fix: Verified users via ADUC, PowerShell queries, and screenshots
 
 ---
 
 ## ✅ Final Outcome
-Reusable scripts for IT support automation.
+ - Successfully automated Active Directory user creation
+- Users were validated across multiple methods
+- Script safely handles re-runs without breaking
+- Clear console output for success and failure cases
