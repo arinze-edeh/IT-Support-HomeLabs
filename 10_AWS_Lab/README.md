@@ -21,7 +21,10 @@
 ## 🧩 Steps Performed
 
 ### 1. Created IAM User
-📸 *Screenshot: IAM user*
+
+Created an IAM user with scoped permissions to securely manage AWS resources following least-privilege principles.
+
+📸 *Screenshot: IAM User Creation & Permissions*
 
 <img width="1919" height="941" alt="Screenshot 2026-01-03 001809" src="https://github.com/user-attachments/assets/c3f14038-332b-46c9-9b0e-7f8a8a13d1aa" />
 <img width="1919" height="946" alt="Screenshot 2026-01-03 001609" src="https://github.com/user-attachments/assets/c212bc96-0181-400b-b223-d29224bd22fc" />
@@ -30,7 +33,9 @@
 
 ### 2. Launched EC2 Instance
 
-📸 *Screenshot: EC2 dashboard*
+Launched an Amazon EC2 instance using Amazon Linux to provide scalable cloud compute resources.
+
+📸 *Screenshot: EC2 Instance Running State / dashboard*
 
 <img width="1914" height="882" alt="image" src="https://github.com/user-attachments/assets/2107b2ad-4338-4c86-b62d-f7ca9e609126" />
 <img width="1915" height="926" alt="image" src="https://github.com/user-attachments/assets/b257af8d-359f-4c34-9d9d-0325a6638c15" />
@@ -39,7 +44,9 @@
 
 ### 3. Configured Security Groups
 
-📸 *Screenshot: SG rules*
+Configured Security Group inbound rules to allow controlled SSH (port 22) and HTTP (port 80) access.
+
+📸 *Screenshot: Security Group Inbound Rules*
 
 <img width="1136" height="948" alt="Screenshot 2026-01-03 010458" src="https://github.com/user-attachments/assets/3cb27a11-78fe-4fee-b5c4-bee7a306582f" />
 <img width="1919" height="933" alt="Screenshot 2026-01-03 010534" src="https://github.com/user-attachments/assets/0aa80c93-b719-4799-9f93-4e2edea4afd4" />
@@ -47,6 +54,8 @@
 ---
 
 ### 4. Created S3 Bucket
+
+Created an Amazon S3 bucket to demonstrate object storage provisioning and access management.
 
 📸 *Screenshot: S3 bucket*
 
@@ -57,7 +66,9 @@
 
 ### 5. Connected to EC2 via SSH
 
-📸 *Screenshot: connected session*
+Successfully connected to the EC2 instance using SSH to validate remote access and instance readiness.
+
+📸 *Screenshot: connected EC2 SSH Session (Amazon Linux)*
 
 <img width="1919" height="927" alt="Screenshot 2026-01-03 013057" src="https://github.com/user-attachments/assets/0df1606a-9ffd-4a12-b272-961f1edea535" />
 
