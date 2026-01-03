@@ -33,7 +33,11 @@ Launched EC2 instance, S3 bucket, IAM, and security groups.
 ---
 
 ### 3. Configured Security Groups
+
 📸 *Screenshot: SG rules*
+
+<img width="1136" height="948" alt="Screenshot 2026-01-03 010458" src="https://github.com/user-attachments/assets/3cb27a11-78fe-4fee-b5c4-bee7a306582f" />
+<img width="1919" height="933" alt="Screenshot 2026-01-03 010534" src="https://github.com/user-attachments/assets/0aa80c93-b719-4799-9f93-4e2edea4afd4" />
 
 ---
 
