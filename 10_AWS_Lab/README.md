@@ -1,12 +1,20 @@
 # 10 – AWS Fundamentals Lab
 
 ## 📌 Overview
-Launched EC2 instance, S3 bucket, IAM, and security groups.
+
+- Deployed core AWS infrastructure components
+- Practiced compute, storage, networking, and access control fundamentals
+- Validated secure remote access to cloud resources
 
 ---
 
 ## 🛠️ Tools Used
-- AWS Console
+
+- AWS Management Console
+- Amazon EC2 (Elastic Compute Cloud)
+- Amazon S3 (Simple Storage Service)
+- AWS IAM (Identity and Access Management)
+- Security Groups (Virtual Firewall)
 
 ---
 
@@ -56,15 +64,35 @@ Launched EC2 instance, S3 bucket, IAM, and security groups.
 ---
 
 ## 📘 What I Learned
-- AWS compute, storage  
-- Cloud security basics  
+
+- How to create and manage IAM users with least-privilege permissions
+- How to launch and configure an EC2 instance using Amazon Linux
+- How Security Groups control inbound traffic using rule-based filtering
+- How to create and manage S3 buckets for cloud storage
+- How to securely connect to a Linux EC2 instance using SSH 
 
 ---
 
 ## ❗ Issues & Fixes
-[Add notes]
+
+- **Issue: SSH connection blocked**
+  - Fix: Updated Security Group inbound rules to allow TCP port 22 from my IP
+
+- **Issue: Public access restrictions on S3 bucket**
+  - Fix: Adjusted bucket permissions and verified access policies
+
+- **Issue: Confusion between RDP and SSH**
+  - Fix: Confirmed Linux EC2 instances require SSH, not RDP
+
+- **Issue: Exposing sensitive data in screenshots**
+  - Fix: Redacted public IP addresses before uploading to GitHub
 
 ---
 
 ## ✅ Final Outcome
-Functional AWS environment demonstrating cloud fundamentals.
+
+- Successfully created an IAM user for controlled AWS access
+- Launched and configured a functional EC2 instance
+- Applied secure Security Group rules for SSH and HTTP traffic
+- Created and verified an S3 storage bucket
+- Connected to the EC2 instance via SSH and validated remote access
