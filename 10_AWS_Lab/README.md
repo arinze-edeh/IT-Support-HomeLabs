@@ -18,9 +18,6 @@ Launched EC2 instance, S3 bucket, IAM, and security groups.
 <img width="1919" height="941" alt="Screenshot 2026-01-03 001809" src="https://github.com/user-attachments/assets/c3f14038-332b-46c9-9b0e-7f8a8a13d1aa" />
 <img width="1919" height="946" alt="Screenshot 2026-01-03 001609" src="https://github.com/user-attachments/assets/c212bc96-0181-400b-b223-d29224bd22fc" />
 
-
-
-
 ---
 
 ### 2. Launched EC2 Instance
@@ -42,7 +39,11 @@ Launched EC2 instance, S3 bucket, IAM, and security groups.
 ---
 
 ### 4. Created S3 Bucket
+
 📸 *Screenshot: S3 bucket*
+
+<img width="1145" height="926" alt="image" src="https://github.com/user-attachments/assets/78d7305f-4074-4bd8-a1e8-9d0e151e15a0" />
+<img width="1915" height="928" alt="image" src="https://github.com/user-attachments/assets/89f2f5ed-0e92-41d6-9717-fc10cbd51fdb" />
 
 ---
 
