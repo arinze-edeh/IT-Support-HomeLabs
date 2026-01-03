@@ -47,8 +47,11 @@ Launched EC2 instance, S3 bucket, IAM, and security groups.
 
 ---
 
-### 5. Connected to EC2 via SSH/RDP
+### 5. Connected to EC2 via SSH
+
 📸 *Screenshot: connected session*
+
+<img width="1919" height="927" alt="Screenshot 2026-01-03 013057" src="https://github.com/user-attachments/assets/0df1606a-9ffd-4a12-b272-961f1edea535" />
 
 ---
 
