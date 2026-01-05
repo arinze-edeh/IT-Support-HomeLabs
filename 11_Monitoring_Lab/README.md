@@ -16,6 +16,16 @@ In this lab, I deployed a monitoring solution, onboarded Windows and Linux hosts
 ### 1. Installed Monitoring Server
 📸 *Screenshot: dashboard*
 
+- zabbix-server-mysql → installed
+
+- zabbix-frontend-php → installed
+
+- zabbix-apache-conf → installed
+
+- zabbix-agent → installed
+
+Installed Zabbix Server Packages
+
 <img width="1153" height="1079" alt="image" src="https://github.com/user-attachments/assets/d6ce0865-8fca-4e64-8c26-26fe9682a18e" />
 
 
