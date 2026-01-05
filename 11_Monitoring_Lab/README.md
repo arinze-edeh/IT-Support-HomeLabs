@@ -1,7 +1,8 @@
 # 11 – Monitoring Lab
 
 ## 📌 Overview
-Installed monitoring tools (Zabbix/PRTG/Wazuh), added hosts, created alerts.
+
+In this lab, I deployed a monitoring solution, onboarded Windows and Linux hosts, configured alerting rules, triggered test alerts, and built a basic monitoring dashboard to visualize system health and performance.
 
 ---
 
