@@ -31,8 +31,14 @@ Installed Zabbix Server Packages (mysql, frontend php, apache conf, agent)
 
 ---
 
-### 2. Added Windows/Linux Agents
+### 2. Added Windows & Linux Agents
+
 📸 *Screenshot: host added*
+
+<img width="1154" height="1079" alt="image" src="https://github.com/user-attachments/assets/912a752e-108f-4cb8-9680-e28cf44de28b" />
+
+<img width="1152" height="1079" alt="image" src="https://github.com/user-attachments/assets/7bc822a3-1bc9-4e76-a85e-9bd082ab97f7" />
+
 
 ---
 
