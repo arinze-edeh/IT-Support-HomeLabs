@@ -60,7 +60,10 @@ Installed Zabbix Server Packages (mysql, frontend php, apache conf, agent)
 ---
 
 ### 5. Created Monitoring Dashboard
+
 📸 *Screenshot: graphs/charts*
+
+<img width="1153" height="1079" alt="image" src="https://github.com/user-attachments/assets/5b1ae4a8-d5f3-4527-b7d0-5a112ca0c1f8" />
 
 ---
 
