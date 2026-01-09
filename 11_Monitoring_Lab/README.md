@@ -2,18 +2,28 @@
 
 ## 📌 Overview
 
-In this lab, I deployed a monitoring solution, onboarded Windows and Linux hosts, configured alerting rules, triggered test alerts, and built a basic monitoring dashboard to visualize system health and performance.
+In this lab, I installed and configured Zabbix monitoring server, onboarded Windows and Linux hosts for monitoring, configured  triggers and validated alert generation, and built a basic monitoring dashboard to visualize system health and performance.
 
 ---
 
 ## 🛠️ Tools Used
-- Zabbix / PRTG / Wazuh
+
+- Zabbix Server (Ubuntu 24.04)
+- Zabbix Agent (Linux)
+- Zabbix Agent (Windows 10)
+- Apache / MariaDB
+- Web Browser (Zabbix UI)
 
 ---
 
 ## 🧩 Steps Performed
 
 ### 1. Installed Monitoring Server
+
+- Installed Zabbix server, frontend, and database
+- Started and enabled required services
+- Accessed Zabbix web interface successfully
+
 📸 *Screenshot: dashboard*
 
 Installed Zabbix Server Packages (mysql, frontend php, apache conf, agent)
@@ -27,13 +37,17 @@ Installed Zabbix Server Packages (mysql, frontend php, apache conf, agent)
 <img width="1151" height="1079" alt="image" src="https://github.com/user-attachments/assets/88fca7b0-48d3-41ea-8614-ccd3dce22491" />
 
 
-
-
 ---
 
 ### 2. Added Windows & Linux Agents
 
-📸 *Screenshot: host added*
+- Installed Zabbix Agent on Ubuntu server
+- Installed Zabbix Agent on Windows 10 client
+- Created hosts in Zabbix UI
+- Linked appropriate OS templates
+- Verified host availability (green status)
+  
+📸 *Screenshot: Linux and Windows hosts added*
 
 <img width="1154" height="1079" alt="image" src="https://github.com/user-attachments/assets/912a752e-108f-4cb8-9680-e28cf44de28b" />
 <img width="1154" height="1079" alt="image" src="https://github.com/user-attachments/assets/1e56503a-ec7f-4653-8947-ce73318d7b93" />
@@ -46,6 +60,10 @@ Installed Zabbix Server Packages (mysql, frontend php, apache conf, agent)
 
 ### 3. Configured Alerts
 
+- Used existing Zabbix triggers from linked templates
+- Verified trigger thresholds (CPU, memory, agent status)
+- Ensured triggers were enabled and active
+  
 📸 *Screenshot: alert setup*
 
 <img width="1154" height="1072" alt="image" src="https://github.com/user-attachments/assets/0514dca1-06cd-4d30-aba9-24ebe6c0ad55" />
@@ -55,7 +73,10 @@ Installed Zabbix Server Packages (mysql, frontend php, apache conf, agent)
 
 ### 4. Generated Test Alerts
 
-📸 *Screenshot: alert triggered*
+- Observed trigger activation in Monitoring → Problems
+- Confirmed alert state changes in real time
+  
+📸 *Screenshot: triggered problem showing active alert*
 
 <img width="1152" height="1079" alt="image" src="https://github.com/user-attachments/assets/92d62038-c052-4ee6-a46e-640f1450925d" />
 
@@ -63,7 +84,11 @@ Installed Zabbix Server Packages (mysql, frontend php, apache conf, agent)
 
 ### 5. Created Monitoring Dashboard
 
-📸 *Screenshot: graphs/charts*
+- Created custom dashboard in Zabbix UI
+- Added widgets for CPU, memory, and availability
+- Displayed graphs for monitored hosts
+  
+📸 *Screenshot: Dashboard with graphs and widgets*
 
 <img width="1153" height="1079" alt="image" src="https://github.com/user-attachments/assets/5b1ae4a8-d5f3-4527-b7d0-5a112ca0c1f8" />
 
@@ -74,16 +99,35 @@ Installed Zabbix Server Packages (mysql, frontend php, apache conf, agent)
 ---
 
 ## 📘 What I Learned
-- Importance of monitoring  
-- Log analysis  
-- Alerting and thresholds  
+
+- How to deploy and configure Zabbix server on Linux
+- How to add and monitor Windows and Linux hosts
+- How Zabbix templates and triggers work
+- How to validate alerts using controlled failures
+- How to visualize system metrics using dashboards  
 
 ---
 
 ## ❗ Issues & Fixes
-[Add notes]
+
+- Issue: Hosts not appearing after creation
+  - Fix: Added correct agent interface (IP + port 10050)
+
+- Issue: Trigger not firing
+  - Fix: Verified trigger severity and agent availability
+
+- Issue: Windows agent not responding
+  - Fix: Opened port 10050 and confirmed agent service running
+
+- Issue: Dashboard graphs empty
+  - Fix: Allowed time for data collection and refreshed widgets
 
 ---
 
 ## ✅ Final Outcome
-Working monitoring system for performance and security.
+
+- Zabbix monitoring server fully operational
+- Linux and Windows systems monitored successfully
+- Alerts triggered and validated
+- Dashboard displaying real-time metrics
+- Monitoring lab completed successfully
