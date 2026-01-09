@@ -43,12 +43,19 @@ Installed Zabbix Server Packages (mysql, frontend php, apache conf, agent)
 ---
 
 ### 3. Configured Alerts
+
 📸 *Screenshot: alert setup*
+
+<img width="1154" height="1072" alt="image" src="https://github.com/user-attachments/assets/0514dca1-06cd-4d30-aba9-24ebe6c0ad55" />
+<img width="1153" height="1079" alt="image" src="https://github.com/user-attachments/assets/b0032655-4df6-42f8-9a3a-43fe89941020" />
 
 ---
 
 ### 4. Generated Test Alerts
+
 📸 *Screenshot: alert triggered*
+
+<img width="1152" height="1079" alt="image" src="https://github.com/user-attachments/assets/92d62038-c052-4ee6-a46e-640f1450925d" />
 
 ---
 
