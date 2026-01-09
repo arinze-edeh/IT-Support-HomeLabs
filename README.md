@@ -80,5 +80,5 @@ By completing and documenting these labs, I demonstrate:
 - Ability to troubleshoot and resolve real IT issues  
 - Knowledge of enterprise tools and best practices  
 - Cloud, automation, and monitoring capabilities  
-- A professional, GitHub-ready portfolio for recruiters
+- A professional portfolio for recruiters
 
