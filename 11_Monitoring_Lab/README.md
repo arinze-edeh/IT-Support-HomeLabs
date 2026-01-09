@@ -36,6 +36,8 @@ Installed Zabbix Server Packages (mysql, frontend php, apache conf, agent)
 📸 *Screenshot: host added*
 
 <img width="1154" height="1079" alt="image" src="https://github.com/user-attachments/assets/912a752e-108f-4cb8-9680-e28cf44de28b" />
+<img width="1154" height="1079" alt="image" src="https://github.com/user-attachments/assets/1e56503a-ec7f-4653-8947-ce73318d7b93" />
+<img width="1151" height="1079" alt="image" src="https://github.com/user-attachments/assets/d840fa00-dddb-4b73-a3b0-8f880a94ac0e" />
 
 <img width="1152" height="1079" alt="image" src="https://github.com/user-attachments/assets/7bc822a3-1bc9-4e76-a85e-9bd082ab97f7" />
 
