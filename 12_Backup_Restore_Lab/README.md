@@ -31,7 +31,10 @@ Performed system restore, file backup, VM backup, and recovery testing.
 ---
 
 ### 3. Took VM Snapshot
+
 📸 *Screenshot: snapshot screen*
+
+<img width="1262" height="1079" alt="image" src="https://github.com/user-attachments/assets/5b7e87c4-f354-4a44-8645-aa8699a23cdc" />
 
 ---
 
