@@ -23,7 +23,10 @@ Performed system restore, file backup, VM backup, and recovery testing.
 ---
 
 ### 2. Backed Up Important Files
+
 📸 *Screenshot: backup results*
+
+<img width="1152" height="1079" alt="image" src="https://github.com/user-attachments/assets/909aabaf-bdcc-4e60-ae62-366477049943" />
 
 ---
 
