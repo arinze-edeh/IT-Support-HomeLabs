@@ -101,12 +101,12 @@
 ## ❗ Issues & Fixes
 
 - Restore button initially appeared disabled
--- Cause: VM had not diverged from snapshot state
--- Fix: Booted VM, made changes, powered off, then restored snapshot
+  - Cause: VM had not diverged from snapshot state
+  - Fix: Booted VM, made changes, powered off, then restored snapshot
 
 - No confirmation message after restore
--- Cause: VirtualBox does not display success notifications
--- Fix: Verified restore via snapshot tree and recovered files
+  - Cause: VirtualBox does not display success notifications
+  - Fix: Verified restore via snapshot tree and recovered files
 
 ---
 
