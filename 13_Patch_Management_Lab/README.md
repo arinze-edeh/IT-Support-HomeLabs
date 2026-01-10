@@ -97,7 +97,12 @@ Simulated system update deployment, validation, and rollback processes using Win
 ---
 
 ## ❗ Issues & Fixes
-[Add notes]
+
+- Issue: OS reached end-of-support warning 
+  - Fix: Verified existing patches and documented lifecycle management
+
+- Issue: Rollback buttons appeared disabled
+  - Fix: Identified non-removable updates such as servicing stacks
 
 ---
 
