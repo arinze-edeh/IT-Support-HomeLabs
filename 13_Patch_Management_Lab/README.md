@@ -52,6 +52,8 @@ Simulated update deployment, testing, and rollback.
 
 📸 *Screenshot: documentation*
 
+<img width="1151" height="1079" alt="image" src="https://github.com/user-attachments/assets/8f69042c-1074-4520-bd6d-471ca2cd996c" />
+
 ---
 
 ## 📘 What I Learned
