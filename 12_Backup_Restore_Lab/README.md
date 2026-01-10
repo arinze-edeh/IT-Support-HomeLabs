@@ -34,7 +34,7 @@ Performed system restore, file backup, VM backup, and recovery testing.
 
 📸 *Screenshot: snapshot screen*
 
-<img width="1262" height="1079" alt="image" src="https://github.com/user-attachments/assets/5b7e87c4-f354-4a44-8645-aa8699a23cdc" />
+<img width="1263" height="1079" alt="image" src="https://github.com/user-attachments/assets/795ed0fa-ee5d-4655-8e03-c22d267a517b" />
 
 ---
 
