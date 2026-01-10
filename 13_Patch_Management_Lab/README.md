@@ -1,7 +1,8 @@
 # 13 – Patch Management Lab
 
 ## 📌 Overview
-Simulated update deployment, testing, and rollback.
+
+Simulated system update deployment, validation, and rollback processes using Windows patching tool.
 
 ---
 
