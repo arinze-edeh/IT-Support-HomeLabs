@@ -39,7 +39,10 @@ Performed system restore, file backup, VM backup, and recovery testing.
 ---
 
 ### 4. Performed a Restore
+
 📸 *Screenshot: restore in progress*
+
+<img width="1279" height="1079" alt="image" src="https://github.com/user-attachments/assets/5f33549a-3333-4792-a47f-d80a10196a75" />
 
 ---
 
