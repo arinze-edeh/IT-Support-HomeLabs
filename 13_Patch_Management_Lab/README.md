@@ -21,6 +21,10 @@ Simulated system update deployment, validation, and rollback processes using Win
 
 <img width="1153" height="1079" alt="image" src="https://github.com/user-attachments/assets/b549e486-143b-4193-aa96-065f9e0ae4c3" />
 
+📸 *Screenshot: Terminal showing available updates*
+
+<img width="1154" height="1079" alt="Screenshot 2026-01-10 051019" src="https://github.com/user-attachments/assets/65174a04-ef76-4d2d-8b47-e64a36f28574" />
+
 ---
 
 ### 2. Deployed Updates (simulation)
@@ -28,6 +32,13 @@ Simulated system update deployment, validation, and rollback processes using Win
 📸 *Screenshot: Update history reviewed – no new updates available*
 
 <img width="1154" height="1079" alt="image" src="https://github.com/user-attachments/assets/70615b76-c26d-4ed9-b2e7-e73bd4d31dea" />
+
+
+📸 *Screenshot: : Updates installing in terminal*
+
+<img width="1153" height="1079" alt="image" src="https://github.com/user-attachments/assets/40bfa7ea-35e1-4d7f-b3d0-e4fc7b1a16ae" />
+<img width="1157" height="1077" alt="image" src="https://github.com/user-attachments/assets/d5fb49a2-da22-4175-be7d-a7bf1d95ac56" />
+<img width="1151" height="1079" alt="image" src="https://github.com/user-attachments/assets/3a4fd38b-d8dd-4a42-85b4-a235719a99a1" />
 
 ---
 
