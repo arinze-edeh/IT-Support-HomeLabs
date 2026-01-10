@@ -41,11 +41,15 @@ Simulated update deployment, testing, and rollback.
 ---
 
 ### 4. Simulated Bad Update & Rollback
-📸 *Screenshot: uninstall updates*
+
+📸 *Screenshot: Installed Windows updates reviewed and rollback (uninstall) option verified*
+
+<img width="1153" height="1079" alt="image" src="https://github.com/user-attachments/assets/6da80c48-2283-44b9-ac38-2c39bb8745a8" />
 
 ---
 
 ### 5. Applied Best Practices
+
 📸 *Screenshot: documentation*
 
 ---
