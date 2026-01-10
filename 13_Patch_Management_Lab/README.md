@@ -31,7 +31,8 @@ Simulated update deployment, testing, and rollback.
 ---
 
 ### 3. Validated After Update
-📸 *Screenshot: system working*
+
+📸 *Screenshot: System operational after update check*
 
 ---
 
