@@ -22,8 +22,11 @@ Simulated update deployment, testing, and rollback.
 
 ---
 
-### 2. Deployed Updates
-📸 *Screenshot: updates installing*
+### 2. Deployed Updates (simulation)
+
+📸 *Screenshot: Update history reviewed – no new updates available*
+
+<img width="1154" height="1079" alt="image" src="https://github.com/user-attachments/assets/70615b76-c26d-4ed9-b2e7-e73bd4d31dea" />
 
 ---
 
