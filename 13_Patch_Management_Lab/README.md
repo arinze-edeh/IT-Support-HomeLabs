@@ -2,19 +2,24 @@
 
 ## 📌 Overview
 
-Simulated system update deployment, validation, and rollback processes using Windows patching tool.
+Simulated system update deployment, validation, and rollback processes using Windows and Linux patching tools.
 
 ---
 
 ## 🛠️ Tools Used
+
 - Windows Update
-- WSUS concepts
-- Linux apt/yum updates
+- Windows Installed Updates (Rollback)
+- WSUS Concepts
+- Linux apt
 
 ---
 
 ## 🧩 Steps Performed
 
+- Navigated to Windows Update settings
+- Reviewed update availability and system status
+  
 ### 1. Checked for System Updates
 
 📸 *Screenshot: System checked for updates – End-of-support warning displayed*
@@ -27,7 +32,10 @@ Simulated system update deployment, validation, and rollback processes using Win
 
 ---
 
-### 2. Deployed Updates (simulation)
+### 2. Deployed Updates
+
+- Previously installed Windows updates were reviewed
+- Confirmed updates were successfully applied to the system
 
 📸 *Screenshot: Update history reviewed – no new updates available*
 
@@ -44,6 +52,9 @@ Simulated system update deployment, validation, and rollback processes using Win
 
 ### 3. Validated After Update
 
+- System booted successfully
+- Verified system functionality after patch installation
+  
 📸 *Screenshot: System operational after update check*
 
 <img width="1154" height="1079" alt="image" src="https://github.com/user-attachments/assets/00cc0bad-0bb1-4e18-ad50-1f99c5b170fe" />
@@ -54,6 +65,10 @@ Simulated system update deployment, validation, and rollback processes using Win
 
 ### 4. Simulated Bad Update & Rollback
 
+- Accessed Control Panel → Installed Updates
+- Verified ability to uninstall problematic updates
+- Confirmed rollback mechanism availability
+  
 📸 *Screenshot: Installed Windows updates reviewed and rollback (uninstall) option verified*
 
 <img width="1153" height="1079" alt="image" src="https://github.com/user-attachments/assets/6da80c48-2283-44b9-ac38-2c39bb8745a8" />
@@ -62,6 +77,10 @@ Simulated system update deployment, validation, and rollback processes using Win
 
 ### 5. Applied Best Practices
 
+- Reviewed patch management best practices
+- Emphasized testing, validation, and rollback readiness
+- Documented update management procedures
+  
 📸 *Screenshot: documentation*
 
 <img width="1151" height="1079" alt="image" src="https://github.com/user-attachments/assets/8f69042c-1074-4520-bd6d-471ca2cd996c" />
@@ -69,9 +88,11 @@ Simulated system update deployment, validation, and rollback processes using Win
 ---
 
 ## 📘 What I Learned
-- Patch strategy  
-- Update testing  
-- Rollback procedures  
+
+- Importance of testing updates before deployment
+- How rollback options reduce system downtime
+- Why patch validation is critical after updates
+- Role of WSUS and centralized patching in enterprises
 
 ---
 
@@ -81,4 +102,5 @@ Simulated system update deployment, validation, and rollback processes using Win
 ---
 
 ## ✅ Final Outcome
-Demonstrated ability to manage secure and stable system updates.
+
+Successfully simulated patch deployment, validation, and rollback while applying industry-standard patch management best practices.
