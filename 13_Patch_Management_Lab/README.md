@@ -15,7 +15,10 @@ Simulated update deployment, testing, and rollback.
 ## 🧩 Steps Performed
 
 ### 1. Checked for System Updates
-📸 *Screenshot: update panel*
+
+📸 *Screenshot: System checked for updates – End-of-support warning displayed*
+
+<img width="1153" height="1079" alt="image" src="https://github.com/user-attachments/assets/b549e486-143b-4193-aa96-065f9e0ae4c3" />
 
 ---
 
