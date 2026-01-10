@@ -34,6 +34,10 @@ Simulated update deployment, testing, and rollback.
 
 📸 *Screenshot: System operational after update check*
 
+<img width="1154" height="1079" alt="image" src="https://github.com/user-attachments/assets/00cc0bad-0bb1-4e18-ad50-1f99c5b170fe" />
+<img width="1153" height="1079" alt="image" src="https://github.com/user-attachments/assets/7b851ff8-e7e1-464a-85ca-ff5299d8fb4d" />
+<img width="1151" height="1079" alt="image" src="https://github.com/user-attachments/assets/be52a2d1-156e-4816-b968-f9262ea0f579" />
+
 ---
 
 ### 4. Simulated Bad Update & Rollback
