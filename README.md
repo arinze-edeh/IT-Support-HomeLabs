@@ -4,7 +4,7 @@ Welcome to my **Technical Projects Portfolio repository**!
 
 This repository showcases **hands-on technical projects and labs** covering **IT Support, Systems & Infrastructure, Cloud Operations, Monitoring, and Application Support**. The projects simulate real-world enterprise environments and demonstrate practical skills across **Windows Server, Active Directory, Linux, Networking, Cloud platforms (AWS & Azure), Automation, Monitoring, and Incident Troubleshooting**.
 
-Each project is fully documented with **clear objectives, step-by-step implementation, screenshots, validation results, and troubleshooting** notes—highlighting my ability to **support users, maintain systems, monitor infrastructure, and resolve operational issues** across on-prem and cloud environments.
+Each project is fully documented with **clear objectives, step-by-step implementation, screenshots, validation results, and troubleshooting** notes, highlighting my ability to **support users, maintain systems, monitor infrastructure, and resolve operational issues** across on-prem and cloud environments.
 
 ---
 
