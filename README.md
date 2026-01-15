@@ -1,8 +1,10 @@
-# 💻 IT Support Home Labs
+# 💻 Technical Projects Portfolio
 
-Welcome to my **IT Support Home Labs repository**!  
+Welcome to my **Technical Projects Portfolio repository**!
 
-This repository showcases my **hands-on projects and labs** designed to build practical IT support skills, including **Windows Server, Active Directory, Networking, Linux, Cloud, Automation, and Monitoring**. Each lab is fully documented with **step-by-step instructions, screenshots, and outcomes** to demonstrate my ability to handle real-world IT problems.
+This repository showcases **hands-on technical projects and labs** covering **IT Support, Systems & Infrastructure, Cloud Operations, Monitoring, and Application Support**. The projects simulate real-world enterprise environments and demonstrate practical skills across **Windows Server, Active Directory, Linux, Networking, Cloud platforms (AWS & Azure), Automation, Monitoring, and Incident Troubleshooting**.
+
+Each project is fully documented with **clear objectives, step-by-step implementation, screenshots, validation results, and troubleshooting** notes—highlighting my ability to **support users, maintain systems, monitor infrastructure, and resolve operational issues** across on-prem and cloud environments.
 
 ---
 
@@ -55,13 +57,13 @@ This provides **visual proof of hands-on experience**.
 
 ---
 
-## 🌱 Learning Goals
+## 🌱 Learning & Professional Development Goals
 
-- Strengthen real-world IT support skills  
-- Automate repetitive IT tasks with PowerShell  
-- Gain hands-on cloud experience (Azure & AWS)  
-- Learn networking, monitoring, and system administration  
-- Prepare a professional portfolio for employers
+- Build production-ready technical skills across IT support, systems administration, and infrastructure operations
+- Automate routine operational tasks using PowerShell and scripting fundamentals
+- Gain hands-on experience supporting cloud and hybrid environments (AWS & Microsoft Azure)
+- Develop practical knowledge of networking, monitoring, system administration, and incident response
+- Maintain a well-documented technical portfolio that demonstrates real-world problem solving to employers
 
 ---
 
@@ -72,13 +74,13 @@ This provides **visual proof of hands-on experience**.
 
 ---
 
-## ⚡ Outcome
+## ⚡ Outcomes & Demonstrated Capabilities
 
-By completing and documenting these labs, I demonstrate:
+By completing and documenting these projects, I demonstrate:
 
-- Practical IT support skills  
-- Ability to troubleshoot and resolve real IT issues  
-- Knowledge of enterprise tools and best practices  
-- Cloud, automation, and monitoring capabilities  
-- A professional portfolio for recruiters
+- Ability to support end users, systems, and applications in enterprise-style environments
+- Strong troubleshooting and incident resolution skills across Windows, Linux, and cloud platforms
+- Understanding of infrastructure operations, monitoring, backup, and recovery best practices
+- Hands-on exposure to cloud services, automation, and operational tooling
+- A professional, recruiter-ready technical portfolio aligned with IT Support, Cloud/SaaS, and Operations roles
 
