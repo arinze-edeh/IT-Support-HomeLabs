@@ -1,86 +1,119 @@
-# 💻 Technical Projects Portfolio
+<div align="center">
 
-Welcome to my **Technical Projects Portfolio repository**!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=140&section=header&text=Arinze%20Edeh&fontSize=42&fontColor=ffffff&fontAlignY=55&desc=Infrastructure%20%7C%20Cloud%20Operations%20%7C%20IT%20Systems&descSize=16&descAlignY=78&descColor=a8c5da" width="100%"/>
 
-This repository showcases **hands-on technical projects and labs** covering **IT Support, Systems & Infrastructure, Cloud Operations, Monitoring, and Application Support**. The projects simulate real-world enterprise environments and demonstrate practical skills across **Windows Server, Active Directory, Linux, Networking, Cloud platforms (AWS & Azure), Automation, Monitoring, and Incident Troubleshooting**.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-arinze--edeh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arinze-edeh)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edeharinze389@gmail.com)
+[![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)]()
+[![Azure](https://img.shields.io/badge/Microsoft-AZ--900-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)]()
 
-Each project is fully documented with **clear objectives, step-by-step implementation, screenshots, validation results, and troubleshooting** notes, highlighting my ability to **support users, maintain systems, monitor infrastructure, and resolve operational issues** across on-prem and cloud environments.
-
----
-
-## 🛠️ Skills Covered
-
-- **Operating Systems:** Windows Server & Client, Linux (Ubuntu)  
-- **Networking:** TCP/IP, DNS, DHCP, Subnetting, Troubleshooting  
-- **Cloud Platforms:** AWS (CCP), Microsoft Azure Fundamentals  
-- **Automation & Scripting:** PowerShell basics  
-- **IT Support Tools:** Active Directory, Group Policies, Ticketing System (GLPI)  
-- **Virtualization:** VirtualBox  
-- **Monitoring Tools:** Zabbix, PRTG, Wazuh  
-- **Backup & Patch Management**  
-- **Remote Support Tools** (RDP, VNC, SSH)
+</div>
 
 ---
 
-## 📂 List of Home Lab Projects
+## About This Portfolio
 
-| Lab No | Project Name | Description |
-|--------|--------------|-------------|
-| 01 | Virtualization Lab | Set up hypervisor and multiple VMs for lab environment |
-| 02 | Active Directory Lab (Part 1) | Configure domain controller, OUs, users |
-| 03 | Active Directory Lab (Part 2) | Group Policies, permissions, login scripts |
-| 04 | Networking Lab | DNS, DHCP, IP troubleshooting, Wireshark packet capture |
-| 05 | Windows OS Troubleshooting Lab | BSOD, startup issues, printer problems, malware cleanup |
-| 06 | Ticketing System Lab | Simulate IT tickets using GLPI |
-| 07 | Linux Server Lab | Ubuntu setup, SSH, Apache/Nginx, cron jobs |
-| 08 | PowerShell Automation Lab | Automate user creation and permissions |
-| 09 | Azure Fundamentals Lab | Create VM, storage, VNet, IAM roles |
-| 10 | AWS Fundamentals Lab | EC2, S3, security groups, IAM |
-| 11 | Monitoring Lab | Set up monitoring, alerts, and log analysis |
-| 12 | Backup & Restore Lab | System backup, restore points, file recovery |
-| 13 | Patch Management Lab | Simulate updates and testing with WSUS concepts |
+This repository is a curated record of enterprise-grade lab work spanning IT support, systems administration, cloud infrastructure, and operational monitoring. Every project is built from the ground up inside isolated virtual environments that mirror the architecture, tooling, and constraints of real production systems.
 
-> Each lab folder contains:
-> - **README.md** – Steps performed, screenshots, outcome     
+The work here is not theoretical. Each lab involves provisioning, configuring, breaking, and fixing infrastructure the same way an on-call engineer would on a Tuesday night. The documentation reflects that: objectives are clearly scoped, implementations are reproducible, and failures are as well-documented as successes.
 
 ---
 
-## 📷 Screenshots
+## Technical Competencies
 
-For each lab, I include screenshots to illustrate:
+<table>
+<tr>
+<td valign="top" width="50%">
 
-- Setup and installation steps  
-- Key configurations and commands  
-- Troubleshooting steps and final outcomes  
+**Operating Systems**
+- Windows Server, Windows 10/11
+- Linux (Ubuntu) - server and CLI administration
 
-This provides **visual proof of hands-on experience**.
+**Networking**
+- TCP/IP, DNS, DHCP, Subnetting
+- Network fault isolation and troubleshooting
+
+**Cloud Platforms**
+- AWS: EC2, S3, IAM, Security Groups
+- Microsoft Azure: VMs, VNets, Storage, IAM Roles
+
+</td>
+<td valign="top" width="50%">
+
+**Directory Services and Access Control**
+- Active Directory, Organizational Units
+- Group Policy Objects, NTFS permissions, login scripts
+
+**Monitoring and Observability**
+- Zabbix and PRTG: infrastructure metrics and alerting
+- Wazuh: log analysis and SIEM
+
+**Automation and Tooling**
+- PowerShell scripting for user and system management
+- GLPI for ITSM and ticket lifecycle management
+- VirtualBox hypervisor
+- Backup, restore, and patch management (WSUS)
+- Remote access: RDP, VNC, SSH
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🌱 Learning & Professional Development Goals
+## Lab Projects
 
-- Build production-ready technical skills across IT support, systems administration, and infrastructure operations
+| # | Project | What Was Built |
+|---|---|---|
+| 01 | [Virtualization Lab](./01-virtualization-lab/) | Deployed and managed a multi-VM lab environment using VirtualBox, establishing the foundation for all subsequent projects |
+| 02 | [Active Directory I](./02-active-directory-part1/) | Stood up a Windows Server domain controller with a structured OU hierarchy, user accounts, and security group architecture |
+| 03 | [Active Directory II](./03-active-directory-part2/) | Implemented Group Policy Objects for desktop enforcement, delegated NTFS permissions, and deployed login scripts across the domain |
+| 04 | [Networking Lab](./04-networking-lab/) | Configured DNS and DHCP services, performed IP conflict resolution, and captured and analyzed network traffic at the packet level |
+| 05 | [Windows OS Troubleshooting](./05-windows-troubleshooting/) | Diagnosed and resolved BSOD events, boot failures, peripheral issues, and simulated malware infections using structured triage methods |
+| 06 | [ITSM Ticketing with GLPI](./06-ticketing-system-glpi/) | Deployed GLPI and simulated a full enterprise ticket lifecycle including intake, assignment, resolution, and SLA compliance tracking |
+| 07 | [Linux Server Lab](./07-linux-server-lab/) | Provisioned an Ubuntu server, hardened SSH access, deployed Apache and Nginx web services, and automated tasks with cron |
+| 08 | [PowerShell Automation](./08-powershell-automation/) | Authored scripts to automate bulk user provisioning, group membership assignment, and permission management in Active Directory |
+| 09 | [Azure Fundamentals](./09-azure-fundamentals/) | Provisioned Azure infrastructure including virtual machines, storage accounts, virtual networks, and role-based access control |
+| 10 | [AWS Fundamentals](./10-aws-fundamentals/) | Deployed and secured AWS workloads across EC2, S3, and IAM with security group policies and least-privilege access design |
+| 11 | [Monitoring and Observability](./11-monitoring-lab/) | Deployed Zabbix and PRTG agents, configured threshold-based alerting, and used Wazuh for centralized log collection and analysis |
+| 12 | [Backup and Disaster Recovery](./12-backup-restore-lab/) | Designed and validated backup schedules, tested restore point recovery, and simulated file-level disaster recovery scenarios |
+| 13 | [Patch Management](./13-patch-management-lab/) | Simulated an enterprise patching cycle using WSUS concepts, including update staging, deployment, validation, and rollback planning |
+
+---
+
+## What This Demonstrates
+
+> **Support and Operations Readiness** - Proven ability to support end users, systems, and applications across Windows, Linux, and cloud platforms in enterprise-style environments.
+
+> **Infrastructure Depth** - Hands-on experience with the full operational stack: directory services, networking, cloud provisioning, monitoring, backup, and recovery.
+
+> **Troubleshooting Under Pressure** - Structured, methodical approach to incident diagnosis and resolution across OS, network, and application layers.
+
+> **Cloud and Automation Fluency** - Working knowledge of AWS and Azure service models, paired with scripting skills to reduce manual operational overhead.
+
+> **Professional Documentation** - Every project is documented to a standard where another engineer could reproduce the environment, understand the decisions made, and build on the work.
+
+---
+
+## Professional Goals
+
+- Build production-ready skills across IT support, systems administration, and infrastructure operations
 - Automate routine operational tasks using PowerShell and scripting fundamentals
-- Gain hands-on experience supporting cloud and hybrid environments (AWS & Microsoft Azure)
-- Develop practical knowledge of networking, monitoring, system administration, and incident response
+- Gain hands-on experience supporting cloud and hybrid environments across AWS and Microsoft Azure
+- Develop deep working knowledge of networking, monitoring, system administration, and incident response
 - Maintain a well-documented technical portfolio that demonstrates real-world problem solving to employers
 
 ---
 
-## 📫 Contact
+<div align="center">
 
-- Email: [edeharinze389@gmail.com](mailto:edeharinze389@gmail.com)  
-- LinkedIn: [https://www.linkedin.com/in/arinze-edeh](https://www.linkedin.com/in/arinze-edeh)  
+### Open to Opportunities
 
----
+*IT Support · Systems Administration · Cloud Operations · SaaS and Application Support*
 
-## ⚡ Outcomes & Demonstrated Capabilities
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arinze-edeh)
+[![Email](https://img.shields.io/badge/Get%20In%20Touch-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edeharinze389@gmail.com)
 
-By completing and documenting these projects, I demonstrate:
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
 
-- Ability to support end users, systems, and applications in enterprise-style environments
-- Strong troubleshooting and incident resolution skills across Windows, Linux, and cloud platforms
-- Understanding of infrastructure operations, monitoring, backup, and recovery best practices
-- Hands-on exposure to cloud services, automation, and operational tooling
-- A professional, recruiter-ready technical portfolio aligned with IT Support, Cloud/SaaS, and Operations roles
-
+</div>
