@@ -74,19 +74,19 @@ The work here is not theoretical. Each lab involves provisioning, configuring, b
 
 | # | Project | What Was Built |
 |---|---|---|
-| 01 | [Virtualization Lab](./01-virtualization-lab/) | Deployed and managed a multi-VM lab environment using VirtualBox, establishing the foundation for all subsequent projects |
-| 02 | [Active Directory I](./02-active-directory-part1/) | Stood up a Windows Server domain controller with a structured OU hierarchy, user accounts, and security group architecture |
-| 03 | [Active Directory II](./03-active-directory-part2/) | Implemented Group Policy Objects for desktop enforcement, delegated NTFS permissions, and deployed login scripts across the domain |
-| 04 | [Networking Lab](./04-networking-lab/) | Configured DNS and DHCP services, performed IP conflict resolution, and captured and analyzed network traffic at the packet level |
-| 05 | [Windows OS Troubleshooting](./05-windows-troubleshooting/) | Diagnosed and resolved BSOD events, boot failures, peripheral issues, and simulated malware infections using structured triage methods |
-| 06 | [ITSM Ticketing with GLPI](./06-ticketing-system-glpi/) | Deployed GLPI and simulated a full enterprise ticket lifecycle including intake, assignment, resolution, and SLA compliance tracking |
-| 07 | [Linux Server Lab](./07-linux-server-lab/) | Provisioned an Ubuntu server, hardened SSH access, deployed Apache and Nginx web services, and automated tasks with cron |
-| 08 | [PowerShell Automation](./08-powershell-automation/) | Authored scripts to automate bulk user provisioning, group membership assignment, and permission management in Active Directory |
-| 09 | [Azure Fundamentals](./09-azure-fundamentals/) | Provisioned Azure infrastructure including virtual machines, storage accounts, virtual networks, and role-based access control |
-| 10 | [AWS Fundamentals](./10-aws-fundamentals/) | Deployed and secured AWS workloads across EC2, S3, and IAM with security group policies and least-privilege access design |
-| 11 | [Monitoring and Observability](./11-monitoring-lab/) | Deployed Zabbix and PRTG agents, configured threshold-based alerting, and used Wazuh for centralized log collection and analysis |
-| 12 | [Backup and Disaster Recovery](./12-backup-restore-lab/) | Designed and validated backup schedules, tested restore point recovery, and simulated file-level disaster recovery scenarios |
-| 13 | [Patch Management](./13-patch-management-lab/) | Simulated an enterprise patching cycle using WSUS concepts, including update staging, deployment, validation, and rollback planning |
+| 01 | [Virtualization Lab](./01_Virtualization/) | Deployed and managed a multi-VM lab environment using VirtualBox, establishing the foundation for all subsequent projects |
+| 02 | [Active Directory I](./02_ActiveDirectory_Setup/) | Stood up a Windows Server domain controller with a structured OU hierarchy, user accounts, and security group architecture |
+| 03 | [Active Directory II](./03_ActiveDirectory_Lab_Part2/) | Implemented Group Policy Objects for desktop enforcement, delegated NTFS permissions, and deployed login scripts across the domain |
+| 04 | [Networking Lab](./04_Networking_Lab/) | Configured DNS and DHCP services, performed IP conflict resolution, and captured and analyzed network traffic at the packet level |
+| 05 | [Windows OS Troubleshooting](./05_Windows_Troubleshooting_Lab/) | Diagnosed and resolved BSOD events, boot failures, peripheral issues, and simulated malware infections using structured triage methods |
+| 06 | [ITSM Ticketing with GLPI](./06_TicketingSystem_Lab/) | Deployed GLPI and simulated a full enterprise ticket lifecycle including intake, assignment, resolution, and SLA compliance tracking |
+| 07 | [Linux Server Lab](./07_Linux_Lab/) | Provisioned an Ubuntu server, hardened SSH access, deployed Apache and Nginx web services, and automated tasks with cron |
+| 08 | [PowerShell Automation](./08_PowerShell_Lab/) | Authored scripts to automate bulk user provisioning, group membership assignment, and permission management in Active Directory |
+| 09 | [Azure Fundamentals](./09_Azure_Lab/) | Provisioned Azure infrastructure including virtual machines, storage accounts, virtual networks, and role-based access control |
+| 10 | [AWS Fundamentals](./10_AWS_Lab/) | Deployed and secured AWS workloads across EC2, S3, and IAM with security group policies and least-privilege access design |
+| 11 | [Monitoring and Observability](./11_Monitoring_Lab/) | Deployed Zabbix and PRTG agents, configured threshold-based alerting, and used Wazuh for centralized log collection and analysis |
+| 12 | [Backup and Disaster Recovery](./12_Backup_Restore_Lab/) | Designed and validated backup schedules, tested restore point recovery, and simulated file-level disaster recovery scenarios |
+| 13 | [Patch Management](./13_Patch_Management_Lab/) | Simulated an enterprise patching cycle using WSUS concepts, including update staging, deployment, validation, and rollback planning |
 
 ---
 
