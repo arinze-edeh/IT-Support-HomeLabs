@@ -1,6 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=140&section=header&text=Arinze%20Edeh&fontSize=42&fontColor=ffffff&fontAlignY=55&desc=Infrastructure%20%7C%20Cloud%20Operations%20%7C%20IT%20Systems&descSize=16&descAlignY=78&descColor=a8c5da" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A8C5DA&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Arinze+Edeh;IT+Support+Specialist;Cloud+Operations+Engineer;Infrastructure+%26+Systems+Pro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2C5364&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Arinze+Edeh;IT+Support+Specialist;Cloud+Operations+Engineer;Infrastructure+%26+Systems+Pro" alt="Typing animation"/>
+</picture>
+
+<br/>
+
+*Engineering production-grade infrastructure across Windows, Linux, cloud platforms, and operational monitoring.*
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-arinze--edeh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arinze-edeh)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edeharinze389@gmail.com)
@@ -113,7 +122,5 @@ The work here is not theoretical. Each lab involves provisioning, configuring, b
 
 [![LinkedIn](https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arinze-edeh)
 [![Email](https://img.shields.io/badge/Get%20In%20Touch-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edeharinze389@gmail.com)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
 
 </div>
