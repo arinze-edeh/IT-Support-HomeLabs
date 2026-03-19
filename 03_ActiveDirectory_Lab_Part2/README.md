@@ -19,7 +19,6 @@
   * [3. GPO to OU Linking](#3-gpo-to-ou-linking)
   * [4. Login Script Deployment](#4-login-script-deployment)
   * [5. Client Policy Verification](#5-client-policy-verification)
-* [Incident Register and Resolutions](#incident-register-and-resolutions)
 * [Key Learnings](#key-learnings)
 * [Outcome Summary](#outcome-summary)
 
@@ -61,36 +60,6 @@ arinzelab.local
 | DNS | Client DNS must point to the Domain Controller |
 | Network | Both machines on the same internal/host-only network adapter |
 | Credentials | Domain Administrator account |
-
----
-
-## Environment Setup
-
-Before beginning, verify the following baseline conditions are met on the client machine.
-
-**Confirm network connectivity to the domain controller:**
-
-```powershell
-ping arinzelab.local
-```
-
-**Verify DNS resolution is pointing to the Domain Controller:**
-
-```powershell
-ipconfig /all
-```
-
-**Flush stale DNS cache:**
-
-```powershell
-ipconfig /flushdns
-```
-
-**Confirm the client is domain-joined (not WORKGROUP):**
-
-```powershell
-systeminfo | findstr /B /C:"Domain"
-```
 
 ---
 
@@ -252,12 +221,11 @@ Forcing a mandatory password change at next logon can create login failures in l
 | Domain user accounts created in correct OUs | Passed |
 | GPOs created and configured in GPMC | Passed |
 | GPOs linked to correct Organizational Units | Passed |
-| Login script deployed via NETLOGON share | Passed |
+| Login script deployed | Passed |
 | Client VM joined to `arinzelab.local` | Passed |
 | Domain user authentication verified on client | Passed |
 | Group Policy application confirmed via gpresult | Passed |
 | Control Panel restriction enforced on client | Passed |
-| All 5 incidents diagnosed and resolved | Passed |
 
 **Final Result:** All Group Policy Objects applied as expected. Domain user authentication succeeded. Login script executed on logon. All lab objectives completed.
 
