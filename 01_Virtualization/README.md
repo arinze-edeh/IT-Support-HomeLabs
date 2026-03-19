@@ -135,13 +135,10 @@ Each VM requires two network adapters:
 4. Select the appropriate host-only network from the dropdown
 5. Repeat for both VMs
 
-> **Screenshot Placeholder**
-> `[screenshot-06-network-adapter1-nat.png]`
-> *Caption: Adapter 1 configured as NAT for internet access*
-
-> **Screenshot Placeholder**
-> `[screenshot-07-network-adapter2-hostonly.png]`
-> *Caption: Adapter 2 configured as Host-Only for internal lab networking*
+> **Screenshots**
+<img width="1920" height="1080" alt="Screenshot10 033434" src="https://github.com/user-attachments/assets/6d1dc7db-96c4-4e53-9b25-a5b8ad3dc97b" />
+<img width="1920" height="1080" alt="Screenshot034022" src="https://github.com/user-attachments/assets/2152e739-6f50-473e-829d-57056c4d61a5" />
+<img width="1920" height="1080" alt="Screenshot034110" src="https://github.com/user-attachments/assets/3c947677-28f8-46bd-b2e1-e072ba02e9a2" />
 
 > **Note:** If internet connectivity fails after OS installation, refer to [Issue 5](#issue-5----no-internet-connectivity-inside-vm) in the troubleshooting log.
 
@@ -484,9 +481,7 @@ This environment will serve as the foundation for all future projects.
 
 ### 3. Configured Networking (NAT / Host-Only)
 📸 *Screenshot: Network settings panel*
-<img width="1920" height="1080" alt="Screenshot10 033434" src="https://github.com/user-attachments/assets/6d1dc7db-96c4-4e53-9b25-a5b8ad3dc97b" />
-<img width="1920" height="1080" alt="Screenshot034022" src="https://github.com/user-attachments/assets/2152e739-6f50-473e-829d-57056c4d61a5" />
-<img width="1920" height="1080" alt="Screenshot034110" src="https://github.com/user-attachments/assets/3c947677-28f8-46bd-b2e1-e072ba02e9a2" />
+
 
 
 ---
