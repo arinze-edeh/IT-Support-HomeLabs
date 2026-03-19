@@ -137,7 +137,8 @@ Group Policy Objects were created using the **Group Policy Management Console (G
 
 **Screenshot: GPO list in Group Policy Management Console**
 
-> ![GPO List](screenshots/02-gpo-list-gpmc.png)
+<img width="990" height="789" alt="image" src="https://github.com/user-attachments/assets/ea4f1ef1-ec78-4c83-8c7c-de5f5234c710" />
+
 > *GPMC showing all created Group Policy Objects ready for linking.*
 
 ---
@@ -510,7 +511,7 @@ Configured **Group Policies, permissions, login scripts, and user accounts**.
 
 ### 2. Created Group Policies
 📸 *Screenshot: GPO list*
-<img width="990" height="789" alt="image" src="https://github.com/user-attachments/assets/ea4f1ef1-ec78-4c83-8c7c-de5f5234c710" />
+
 
 ---
 
