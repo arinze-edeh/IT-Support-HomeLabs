@@ -86,8 +86,10 @@ During installation, accept the network interface prompt. This installs the Virt
 - Confirm version number is displayed in the title bar
 - Ensure no errors appear on startup
 
-> **Screenshot Placeholder**
-> `[screenshot-01-virtualbox-installed.png]`
+> **Screenshot**
+
+<img width="768" height="613" alt="Screenshot22124" src="https://github.com/user-attachments/assets/14a67292-8e60-4423-be2e-7e0cb52acb4b" />
+
 > *Caption: VirtualBox 7.2.4 Manager successfully launched on host machine*
 
 ---
@@ -476,7 +478,7 @@ This environment will serve as the foundation for all future projects.
 
 ### 1. Installed the Hypervisor
 📸 *Screenshot: VirtualBox 7.2.4 Hypervisor Successfully Installed*
-<img width="768" height="613" alt="Screenshot22124" src="https://github.com/user-attachments/assets/14a67292-8e60-4423-be2e-7e0cb52acb4b" />
+
 
 ---
 
