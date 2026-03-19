@@ -155,15 +155,14 @@ GPOs were linked to the relevant Organizational Units to enforce policies on the
 4. Confirmed the link appeared under the OU in the GPMC tree.
 5. Verified link order and enforcement status.
 
-**Screenshot: GPO linked to Organizational Unit**
+**Screenshots: GPO linked to Organizational Unit**
 
-> ![GPO Linked to OU](screenshots/03-gpo-linked-to-ou.png)
+<img width="997" height="894" alt="Screenshot054628" src="https://github.com/user-attachments/assets/1924411e-2d81-4968-bf0a-66fa8ea39154" />
+
+<img width="988" height="775" alt="image" src="https://github.com/user-attachments/assets/d267af55-f263-478d-b69e-39669c10b319" />
+
 > *GPMC showing the GPO successfully linked to the target OU.*
 
-**Screenshot: GPO link details and scope**
-
-> ![GPO Link Details](screenshots/04-gpo-link-scope.png)
-> *GPO scope tab confirming correct OU targeting.*
 
 ---
 
@@ -517,9 +516,7 @@ Configured **Group Policies, permissions, login scripts, and user accounts**.
 
 ### 3. Linked GPOs to OUs
 📸 *Screenshot: GPO link result*
-<img width="997" height="894" alt="Screenshot054628" src="https://github.com/user-attachments/assets/1924411e-2d81-4968-bf0a-66fa8ea39154" />
 
-<img width="988" height="775" alt="image" src="https://github.com/user-attachments/assets/d267af55-f263-478d-b69e-39669c10b319" />
 
 ---
 
