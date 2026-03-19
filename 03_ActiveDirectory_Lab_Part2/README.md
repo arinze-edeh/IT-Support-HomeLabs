@@ -170,31 +170,13 @@ GPOs were linked to the relevant Organizational Units to enforce policies on the
 
 A logon script was deployed via GPO to execute automatically when domain users authenticate.
 
-**Script path convention used:**
-
-```
-\\arinzelab.local\NETLOGON\logon.bat
-```
-
-> Scripts placed in the **NETLOGON** share are replicated to all Domain Controllers and are accessible to all domain-joined clients during logon.
-
-**Steps performed:**
-
-1. Placed the logon script (`logon.bat`) in the `C:\Windows\SYSVOL\sysvol\arinzelab.local\scripts` directory.
-2. Opened the `LoginScript-GPO` in the Group Policy Editor.
-3. Navigated to **User Configuration > Windows Settings > Scripts > Logon**.
-4. Clicked **Add** and browsed to the script path.
-5. Applied and closed the editor.
-
 **Screenshot: Script path configured in Group Policy Editor**
 
-> ![Script Path GPO](screenshots/05-login-script-path.png)
+<img width="967" height="845" alt="Screenshot044122" src="https://github.com/user-attachments/assets/b2aec2a2-0823-4604-af9b-1c68d1e0d851" />
+
+<img width="961" height="786" alt="Screenshot020444" src="https://github.com/user-attachments/assets/9db92d52-ef12-4d4c-bd3f-b67fcade7df5" />
+
 > *Group Policy Editor showing the logon script configured under User Configuration.*
-
-**Screenshot: NETLOGON share containing the script**
-
-> ![NETLOGON Script](screenshots/06-netlogon-script-file.png)
-> *NETLOGON share directory confirming the script file is accessible to clients.*
 
 ---
 
@@ -522,9 +504,7 @@ Configured **Group Policies, permissions, login scripts, and user accounts**.
 
 ### 4. Applied Login Scripts
 📸 *Screenshot: Script path*
-<img width="967" height="845" alt="Screenshot044122" src="https://github.com/user-attachments/assets/b2aec2a2-0823-4604-af9b-1c68d1e0d851" />
 
-<img width="961" height="786" alt="Screenshot020444" src="https://github.com/user-attachments/assets/9db92d52-ef12-4d4c-bd3f-b67fcade7df5" />
 
 ---
 
