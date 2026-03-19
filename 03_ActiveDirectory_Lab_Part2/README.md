@@ -111,7 +111,8 @@ User accounts were created inside the appropriate Organizational Units (OUs) usi
 
 **Screenshot: User accounts created in ADUC**
 
-> ![User Accounts Created](screenshots/01-user-accounts-created.png)
+<img width="958" height="792" alt="image" src="https://github.com/user-attachments/assets/6620b1af-ad4d-4dba-86c5-9412eb28f226" />
+
 > *Active Directory Users and Computers showing newly provisioned domain user accounts.*
 
 ---
@@ -502,7 +503,7 @@ Configured **Group Policies, permissions, login scripts, and user accounts**.
 
 ### 1. Created User Accounts
 📸 *Screenshot: Users created*
-<img width="958" height="792" alt="image" src="https://github.com/user-attachments/assets/6620b1af-ad4d-4dba-86c5-9412eb28f226" />
+
 
 
 ---
