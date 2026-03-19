@@ -162,21 +162,12 @@ Attach the ISO and perform a fresh OS installation on each VM.
 3. Select **Custom Install** and target the virtual hard disk
 4. Allow the installation to complete and reboot
 
-> **Screenshot Placeholder**
-> `[screenshot-08-iso-attached-storage.png]`
-> *Caption: Windows ISO mounted to the optical drive in storage settings*
+> **Screenshot**
 
-> **Screenshot Placeholder**
-> `[screenshot-09-windows-setup-wizard.png]`
-> *Caption: Windows setup language and region selection screen*
-
-> **Screenshot Placeholder**
-> `[screenshot-10-custom-install-selected.png]`
-> *Caption: Custom installation option selected with virtual disk as target*
-
-> **Screenshot Placeholder**
-> `[screenshot-11-installation-progress.png]`
-> *Caption: Windows installation progress bar completing the setup*
+<img width="1023" height="892" alt="Screenshot035912" src="https://github.com/user-attachments/assets/19f0a87a-9630-4c12-a59d-038fc7f9bd39" />
+<img width="1031" height="899" alt="Screenshot40149" src="https://github.com/user-attachments/assets/9ec30ce4-e622-493e-a7bd-c969f4acf906" />
+<img width="1025" height="890" alt="Screenshot 44954" src="https://github.com/user-attachments/assets/db1acd06-8229-4e65-a033-4b6d5ca05dba" />
+<img width="1026" height="897" alt="Screenshot060639" src="https://github.com/user-attachments/assets/2e2469d2-be35-47f2-9b92-a1bb96fa59de" />
 
 **Post-installation (recommended):**
 
@@ -201,8 +192,10 @@ Snapshots preserve the clean post-install state of each VM. This is a critical s
    - Example: `Windows10-Clean-Baseline` | `WinServer-Clean-Baseline`
 5. Add a description noting the date and current state
 
-> **Screenshot Placeholder**
-> `[screenshot-12-snapshot-taken-poweredoff.png]`
+> **Screenshot**
+
+<img width="1919" height="1079" alt="Screenshot52840" src="https://github.com/user-attachments/assets/d1001189-dd7c-4708-b2fd-d4ab1ca27ecb" />
+
 > *Caption: Snapshot successfully created while VM is in Powered Off state*
 
 > **Warning:** Taking snapshots while the VM is running significantly increases completion time and may cause apparent freezing. See [Issue 7](#issue-7----snapshot-creation-is-slow-or-appears-frozen) in the troubleshooting log.
@@ -488,17 +481,14 @@ This environment will serve as the foundation for all future projects.
 
 ### 4. Installed OS on Each VM
 📸 *Screenshot: OS installation progress*
-<img width="1023" height="892" alt="Screenshot035912" src="https://github.com/user-attachments/assets/19f0a87a-9630-4c12-a59d-038fc7f9bd39" />
-<img width="1031" height="899" alt="Screenshot40149" src="https://github.com/user-attachments/assets/9ec30ce4-e622-493e-a7bd-c969f4acf906" />
-<img width="1025" height="890" alt="Screenshot 44954" src="https://github.com/user-attachments/assets/db1acd06-8229-4e65-a033-4b6d5ca05dba" />
-<img width="1026" height="897" alt="Screenshot060639" src="https://github.com/user-attachments/assets/2e2469d2-be35-47f2-9b92-a1bb96fa59de" />
+
 
 
 ---
 
 ### 5. Took Initial Snapshots
 📸 *Screenshot: Snapshot created*
-<img width="1919" height="1079" alt="Screenshot52840" src="https://github.com/user-attachments/assets/d1001189-dd7c-4708-b2fd-d4ab1ca27ecb" />
+
 
 ---
 
