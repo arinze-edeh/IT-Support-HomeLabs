@@ -130,4 +130,3 @@ This lab produced a complete, hands-on simulation of an IT helpdesk support work
 - Demonstrated clear communication and structured documentation habits
 - Gained practical experience with tools commonly used in IT helpdesk and support roles
 - Strengthened readiness for entry-level IT support, helpdesk, and service desk positions
-
