@@ -177,3 +177,4 @@ Simulated an enterprise patching lifecycle covering update review, deployment, v
 <sub>13 structured lab projects across IT Support, Systems Administration, Cloud Infrastructure, Monitoring, Automation, Backup and Recovery, and Patch Management.</sub>
 
 </div>
+
