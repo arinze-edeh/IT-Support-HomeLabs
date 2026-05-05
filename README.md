@@ -80,7 +80,7 @@ This work is not theoretical. Each lab involves provisioning, configuring, break
 
 ---
 
-## Projects
+## Lab Projects
 
 | # | Project | Core Skills Demonstrated |
 |---|---|---|
